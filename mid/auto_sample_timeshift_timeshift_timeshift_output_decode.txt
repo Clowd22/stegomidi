@@ -1,0 +1,2971 @@
+--- STDOUT ---
+解析するMIDIファイル名を入力してください（拡張子 .mid は不要）: [Step 1] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 2] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 3] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 4] decoded note=G3 dur=720 vel=81 -> bits=000111
+[Step 5] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 6] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 7] decoded note=A3 dur=960 vel=82 -> bits=011010
+[Step 8] decoded note=A3 dur=720 vel=81 -> bits=010111
+[Step 9] decoded note=B3 dur=240 vel=82 -> bits=101001
+[Step 10] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 11] decoded note=B3 dur=960 vel=81 -> bits=011010
+[Step 12] decoded note=B3 dur=480 vel=82 -> bits=011100
+[Step 13] decoded note=C4 dur=720 vel=82 -> bits=101011
+[Step 14] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 15] decoded note=B3 dur=960 vel=80 -> bits=010110
+[Step 16] decoded note=B3 dur=720 vel=81 -> bits=011011
+[Step 17] decoded note=D4 dur=720 vel=80 -> bits=101111
+[Step 18] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 19] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Keyframe+SYNC READ] step=20 prev_note を F4 に同期、reported_crc=AD
+  block_bits_len=120 actual_crc=AD
+  CRC OK
+[Step 20] decoded note=F4 dur=481 vel=80 -> bits=110000
+[Step 21] decoded note=G4 dur=480 vel=80 -> bits=100100
+[Step 22] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 23] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 24] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 25] decoded note=D4 dur=720 vel=81 -> bits=101011
+[Step 26] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 27] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 28] decoded note=D4 dur=480 vel=80 -> bits=000000
+[Step 29] decoded note=D4 dur=480 vel=82 -> bits=100000
+[Step 30] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 31] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Step 32] decoded note=E4 dur=240 vel=82 -> bits=101101
+[Step 33] decoded note=F4 dur=480 vel=81 -> bits=101000
+[Step 34] decoded note=C5 dur=960 vel=80 -> bits=111110
+[Step 35] decoded note=A4 dur=960 vel=83 -> bits=010110
+[Step 36] decoded note=A4 dur=240 vel=84 -> bits=111101
+[Step 37] decoded note=B4 dur=480 vel=80 -> bits=100100
+[Step 38] decoded note=C5 dur=960 vel=83 -> bits=111110
+[Step 39] decoded note=A4 dur=960 vel=81 -> bits=001110
+[Keyframe+SYNC READ] step=40 prev_note を E4 に同期、reported_crc=74
+  block_bits_len=120 actual_crc=74
+  CRC OK
+[Step 40] decoded note=E4 dur=241 vel=80 -> bits=000001
+[Step 41] decoded note=F4 dur=960 vel=81 -> bits=101010
+[Step 42] decoded note=C5 dur=960 vel=80 -> bits=111110
+[Step 43] decoded note=B4 dur=960 vel=83 -> bits=100110
+[Step 44] decoded note=F4 dur=240 vel=80 -> bits=000001
+[Step 45] decoded note=G4 dur=960 vel=82 -> bits=101110
+[Step 46] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 47] decoded note=F4 dur=960 vel=80 -> bits=011010
+[Step 48] decoded note=E4 dur=480 vel=80 -> bits=001100
+[Step 49] decoded note=F4 dur=960 vel=80 -> bits=100110
+[Step 50] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Step 51] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 52] decoded note=B3 dur=240 vel=80 -> bits=000001
+[Step 53] decoded note=C4 dur=240 vel=81 -> bits=100101
+[Step 54] decoded note=C4 dur=960 vel=81 -> bits=011110
+[Step 55] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 56] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 57] decoded note=A3 dur=720 vel=83 -> bits=100011
+[Step 58] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 59] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Keyframe+SYNC READ] step=60 prev_note を G3 に同期、reported_crc=88
+  block_bits_len=120 actual_crc=88
+  CRC OK
+[Step 60] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 61] decoded note=A3 dur=720 vel=84 -> bits=100111
+[Step 62] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 63] decoded note=D4 dur=960 vel=82 -> bits=010110
+[Step 64] decoded note=D4 dur=720 vel=80 -> bits=011011
+[Step 65] decoded note=E4 dur=720 vel=82 -> bits=101111
+[Step 66] decoded note=E4 dur=960 vel=81 -> bits=011110
+[Step 67] decoded note=D4 dur=960 vel=81 -> bits=010010
+[Step 68] decoded note=A4 dur=480 vel=80 -> bits=111100
+[Step 69] decoded note=B4 dur=960 vel=80 -> bits=100110
+[Step 70] decoded note=B4 dur=960 vel=83 -> bits=101110
+[Step 71] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 72] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 73] decoded note=E4 dur=960 vel=81 -> bits=101010
+[Step 74] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 75] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 76] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 77] decoded note=D4 dur=960 vel=82 -> bits=100010
+[Step 78] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 79] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=80 prev_note を A3 に同期、reported_crc=CC
+  block_bits_len=120 actual_crc=CC
+  CRC OK
+[Step 80] decoded note=A3 dur=241 vel=80 -> bits=000001
+[Step 81] decoded note=B3 dur=480 vel=81 -> bits=100100
+[Step 82] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 83] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 84] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 85] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 86] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 87] decoded note=D4 dur=960 vel=81 -> bits=010010
+[Step 88] decoded note=G4 dur=720 vel=80 -> bits=111011
+[Step 89] decoded note=A4 dur=480 vel=81 -> bits=101000
+[Step 90] decoded note=A4 dur=960 vel=84 -> bits=111110
+[Step 91] decoded note=A4 dur=960 vel=82 -> bits=100010
+[Step 92] decoded note=A4 dur=240 vel=82 -> bits=100001
+[Step 93] decoded note=B4 dur=960 vel=81 -> bits=101010
+[Step 94] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 95] decoded note=G4 dur=960 vel=82 -> bits=100010
+[Step 96] decoded note=D4 dur=480 vel=80 -> bits=000000
+[Step 97] decoded note=D4 dur=240 vel=82 -> bits=100001
+[Step 98] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 99] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=100 prev_note を G3 に同期、reported_crc=E3
+  block_bits_len=120 actual_crc=E3
+  CRC OK
+[Step 100] decoded note=G3 dur=961 vel=80 -> bits=000010
+[Step 101] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 102] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 103] decoded note=C4 dur=960 vel=81 -> bits=100110
+[Step 104] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 105] decoded note=A3 dur=960 vel=84 -> bits=100110
+[Step 106] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 107] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 108] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 109] decoded note=A3 dur=960 vel=84 -> bits=100110
+[Step 110] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 111] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 112] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 113] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 114] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 115] decoded note=D4 dur=960 vel=82 -> bits=100010
+[Step 116] decoded note=D4 dur=240 vel=82 -> bits=100001
+[Step 117] decoded note=D4 dur=720 vel=82 -> bits=100011
+[Step 118] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 119] decoded note=B3 dur=960 vel=82 -> bits=010110
+[Keyframe+SYNC READ] step=120 prev_note を A3 に同期、reported_crc=D3
+  block_bits_len=120 actual_crc=D3
+  CRC OK
+[Step 120] decoded note=A3 dur=721 vel=80 -> bits=001011
+[Step 121] decoded note=B3 dur=240 vel=81 -> bits=100101
+[Step 122] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 123] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 124] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 125] decoded note=A3 dur=240 vel=84 -> bits=100101
+[Step 126] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 127] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 128] decoded note=A3 dur=480 vel=80 -> bits=000000
+[Step 129] decoded note=B3 dur=480 vel=80 -> bits=100000
+[Step 130] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 131] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 132] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 133] decoded note=A3 dur=720 vel=83 -> bits=100011
+[Step 134] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 135] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 136] decoded note=A3 dur=960 vel=80 -> bits=000010
+[Step 137] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 138] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 139] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Keyframe+SYNC READ] step=140 prev_note を G3 に同期、reported_crc=19
+  block_bits_len=120 actual_crc=19
+  CRC OK
+[Step 140] decoded note=G3 dur=961 vel=80 -> bits=000010
+[Step 141] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 142] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 143] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 144] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 145] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 146] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 147] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 148] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 149] decoded note=A3 dur=720 vel=83 -> bits=100011
+[Step 150] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 151] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 152] decoded note=A3 dur=960 vel=80 -> bits=000010
+[Step 153] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 154] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 155] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 156] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 157] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 158] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 159] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Keyframe+SYNC READ] step=160 prev_note を G3 に同期、reported_crc=8B
+  block_bits_len=120 actual_crc=8B
+  CRC OK
+[Step 160] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 161] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 162] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 163] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 164] decoded note=D4 dur=240 vel=82 -> bits=101101
+[Step 165] decoded note=E4 dur=480 vel=80 -> bits=100100
+[Step 166] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 167] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 168] decoded note=D4 dur=240 vel=82 -> bits=101101
+[Step 169] decoded note=E4 dur=960 vel=81 -> bits=101010
+[Step 170] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 171] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 172] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 173] decoded note=E4 dur=720 vel=81 -> bits=101011
+[Step 174] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 175] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 176] decoded note=B3 dur=240 vel=80 -> bits=000001
+[Step 177] decoded note=C4 dur=720 vel=81 -> bits=100111
+[Step 178] decoded note=G4 dur=960 vel=80 -> bits=111110
+[Step 179] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=180 prev_note を C4 に同期、reported_crc=81
+  block_bits_len=120 actual_crc=81
+  CRC OK
+[Step 180] decoded note=C4 dur=961 vel=80 -> bits=000010
+[Step 181] decoded note=C4 dur=480 vel=82 -> bits=100000
+[Step 182] decoded note=C4 dur=960 vel=81 -> bits=011110
+[Step 183] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 184] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 185] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 186] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 187] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 188] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 189] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 190] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 191] decoded note=B3 dur=960 vel=80 -> bits=100010
+[Step 192] decoded note=C4 dur=720 vel=82 -> bits=101011
+[Step 193] decoded note=D4 dur=960 vel=82 -> bits=101110
+[Step 194] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 195] decoded note=B3 dur=960 vel=82 -> bits=010110
+[Step 196] decoded note=B3 dur=720 vel=81 -> bits=011011
+[Step 197] decoded note=D4 dur=720 vel=80 -> bits=101111
+[Step 198] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 199] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Keyframe+SYNC READ] step=200 prev_note を F4 に同期、reported_crc=F1
+  block_bits_len=120 actual_crc=F1
+  CRC OK
+[Step 200] decoded note=F4 dur=481 vel=80 -> bits=110000
+[Step 201] decoded note=G4 dur=480 vel=80 -> bits=100100
+[Step 202] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 203] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 204] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 205] decoded note=D4 dur=960 vel=81 -> bits=101010
+[Step 206] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 207] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 208] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 209] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 210] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 211] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 212] decoded note=B3 dur=240 vel=80 -> bits=001101
+[Step 213] decoded note=C4 dur=240 vel=81 -> bits=100101
+[Step 214] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 215] decoded note=B3 dur=960 vel=80 -> bits=010110
+[Step 216] decoded note=A3 dur=960 vel=82 -> bits=010010
+[Step 217] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 218] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 219] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Keyframe+SYNC READ] step=220 prev_note を G3 に同期、reported_crc=3B
+  block_bits_len=120 actual_crc=3B
+  CRC OK
+[Step 220] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 221] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 222] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 223] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 224] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 225] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 226] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 227] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 228] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 229] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 230] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 231] decoded note=E4 dur=960 vel=80 -> bits=011010
+[Step 232] decoded note=C4 dur=480 vel=81 -> bits=001000
+[Step 233] decoded note=D4 dur=480 vel=80 -> bits=100100
+[Step 234] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 235] decoded note=C4 dur=960 vel=80 -> bits=011010
+[Step 236] decoded note=C4 dur=960 vel=81 -> bits=011110
+[Step 237] decoded note=D4 dur=720 vel=80 -> bits=100111
+[Step 238] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 239] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=240 prev_note を G3 に同期、reported_crc=94
+  block_bits_len=120 actual_crc=94
+  CRC OK
+[Step 240] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 241] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 242] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 243] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 244] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 245] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 246] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 247] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 248] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 249] decoded note=A3 dur=720 vel=83 -> bits=100011
+[Step 250] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 251] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 252] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 253] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 254] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 255] decoded note=A3 dur=960 vel=81 -> bits=010110
+[Step 256] decoded note=A3 dur=720 vel=82 -> bits=011011
+[Step 257] decoded note=B3 dur=720 vel=83 -> bits=101111
+[Step 258] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 259] decoded note=B3 dur=960 vel=80 -> bits=010110
+[Keyframe+SYNC READ] step=260 prev_note を G3 に同期、reported_crc=86
+  block_bits_len=120 actual_crc=86
+  CRC OK
+[Step 260] decoded note=G3 dur=241 vel=81 -> bits=000101
+[Step 261] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 262] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 263] decoded note=A3 dur=960 vel=81 -> bits=010110
+[Step 264] decoded note=A3 dur=480 vel=83 -> bits=011100
+[Step 265] decoded note=B3 dur=720 vel=81 -> bits=100111
+[Step 266] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 267] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 268] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 269] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 270] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 271] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 272] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 273] decoded note=A3 dur=720 vel=83 -> bits=100011
+[Step 274] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 275] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 276] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 277] decoded note=B3 dur=720 vel=81 -> bits=100111
+[Step 278] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 279] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=280 prev_note を G3 に同期、reported_crc=A3
+  block_bits_len=120 actual_crc=A3
+  CRC OK
+[Step 280] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 281] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 282] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 283] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 284] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 285] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 286] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 287] decoded note=D4 dur=960 vel=82 -> bits=100010
+[Step 288] decoded note=B3 dur=720 vel=80 -> bits=000111
+[Step 289] decoded note=C4 dur=960 vel=82 -> bits=101010
+[Step 290] decoded note=D4 dur=960 vel=82 -> bits=101110
+[Step 291] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 292] decoded note=C4 dur=480 vel=82 -> bits=010100
+[Step 293] decoded note=D4 dur=480 vel=82 -> bits=101100
+[Step 294] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 295] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 296] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 297] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 298] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 299] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=300 prev_note を G3 に同期、reported_crc=69
+  block_bits_len=120 actual_crc=69
+  CRC OK
+[Step 300] decoded note=G3 dur=961 vel=80 -> bits=000010
+[Step 301] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 302] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 303] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 304] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 305] decoded note=A3 dur=720 vel=84 -> bits=100111
+[Step 306] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 307] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 308] decoded note=A3 dur=960 vel=80 -> bits=000010
+[Step 309] decoded note=B3 dur=960 vel=80 -> bits=100010
+[Step 310] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 311] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 312] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 313] decoded note=A3 dur=960 vel=84 -> bits=100110
+[Step 314] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 315] decoded note=A3 dur=960 vel=82 -> bits=011010
+[Step 316] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 317] decoded note=B3 dur=240 vel=81 -> bits=101101
+[Step 318] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 319] decoded note=B3 dur=960 vel=81 -> bits=011010
+[Keyframe+SYNC READ] step=320 prev_note を D4 に同期、reported_crc=5E
+  block_bits_len=120 actual_crc=5E
+  CRC OK
+[Step 320] decoded note=D4 dur=961 vel=81 -> bits=110010
+[Step 321] decoded note=E4 dur=480 vel=81 -> bits=101000
+[Step 322] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 323] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 324] decoded note=B3 dur=960 vel=80 -> bits=000010
+[Step 325] decoded note=C4 dur=480 vel=81 -> bits=100100
+[Step 326] decoded note=D4 dur=960 vel=82 -> bits=101110
+[Step 327] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 328] decoded note=D4 dur=960 vel=82 -> bits=100010
+[Step 329] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 330] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 331] decoded note=E4 dur=960 vel=81 -> bits=010010
+[Step 332] decoded note=B4 dur=720 vel=80 -> bits=111111
+[Step 333] decoded note=B4 dur=720 vel=81 -> bits=100111
+[Step 334] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Step 335] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 336] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 337] decoded note=E4 dur=240 vel=80 -> bits=100101
+[Step 338] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 339] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Keyframe+SYNC READ] step=340 prev_note を D4 に同期、reported_crc=9D
+  block_bits_len=120 actual_crc=9D
+  CRC OK
+[Step 340] decoded note=D4 dur=481 vel=80 -> bits=000000
+[Step 341] decoded note=D4 dur=480 vel=82 -> bits=100000
+[Step 342] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 343] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Step 344] decoded note=C4 dur=480 vel=82 -> bits=010100
+[Step 345] decoded note=D4 dur=720 vel=82 -> bits=101111
+[Step 346] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 347] decoded note=G4 dur=960 vel=82 -> bits=010110
+[Step 348] decoded note=C5 dur=960 vel=80 -> bits=111010
+[Step 349] decoded note=B4 dur=720 vel=83 -> bits=100111
+[Step 350] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 351] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 352] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 353] decoded note=D4 dur=720 vel=81 -> bits=101011
+[Step 354] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 355] decoded note=E4 dur=960 vel=82 -> bits=100010
+[Step 356] decoded note=E4 dur=240 vel=82 -> bits=100001
+[Step 357] decoded note=E4 dur=720 vel=82 -> bits=100011
+[Step 358] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 359] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Keyframe+SYNC READ] step=360 prev_note を A3 に同期、reported_crc=C7
+  block_bits_len=120 actual_crc=C7
+  CRC OK
+[Step 360] decoded note=A3 dur=961 vel=80 -> bits=000010
+[Step 361] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 362] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 363] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 364] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 365] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 366] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 367] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 368] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 369] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 370] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 371] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 372] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 373] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 374] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 375] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 376] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 377] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 378] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 379] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Keyframe+SYNC READ] step=380 prev_note を A3 に同期、reported_crc=38
+  block_bits_len=120 actual_crc=38
+  CRC OK
+[Step 380] decoded note=A3 dur=961 vel=80 -> bits=000110
+[Step 381] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 382] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 383] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 384] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 385] decoded note=B3 dur=480 vel=81 -> bits=101100
+[Step 386] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 387] decoded note=C4 dur=960 vel=80 -> bits=011010
+[Step 388] decoded note=A3 dur=480 vel=81 -> bits=001000
+[Step 389] decoded note=B3 dur=240 vel=82 -> bits=101001
+[Step 390] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 391] decoded note=C4 dur=960 vel=81 -> bits=010010
+[Step 392] decoded note=F4 dur=960 vel=80 -> bits=111010
+[Step 393] decoded note=F4 dur=960 vel=82 -> bits=100010
+[Step 394] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Step 395] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 396] decoded note=B3 dur=240 vel=80 -> bits=000001
+[Step 397] decoded note=C4 dur=720 vel=82 -> bits=101011
+[Step 398] decoded note=D4 dur=960 vel=82 -> bits=101110
+[Step 399] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Keyframe+SYNC READ] step=400 prev_note を A3 に同期、reported_crc=98
+  block_bits_len=120 actual_crc=98
+  CRC OK
+[Step 400] decoded note=A3 dur=721 vel=80 -> bits=000011
+[Step 401] decoded note=B3 dur=960 vel=82 -> bits=101010
+[Step 402] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 403] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 404] decoded note=B3 dur=960 vel=81 -> bits=100110
+[Step 405] decoded note=C4 dur=720 vel=80 -> bits=100011
+[Step 406] decoded note=C4 dur=960 vel=81 -> bits=011110
+[Step 407] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 408] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 409] decoded note=A3 dur=720 vel=83 -> bits=100011
+[Step 410] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 411] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 412] decoded note=C4 dur=240 vel=81 -> bits=110101
+[Step 413] decoded note=D4 dur=240 vel=82 -> bits=101101
+[Step 414] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 415] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 416] decoded note=D4 dur=960 vel=80 -> bits=000010
+[Step 417] decoded note=D4 dur=960 vel=82 -> bits=100010
+[Step 418] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 419] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=420 prev_note を D4 に同期、reported_crc=7D
+  block_bits_len=120 actual_crc=7D
+  CRC OK
+[Step 420] decoded note=D4 dur=241 vel=80 -> bits=000001
+[Step 421] decoded note=E4 dur=480 vel=80 -> bits=100100
+[Step 422] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 423] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 424] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 425] decoded note=E4 dur=960 vel=81 -> bits=101010
+[Step 426] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 427] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 428] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 429] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 430] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 431] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 432] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 433] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 434] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 435] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 436] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 437] decoded note=A3 dur=240 vel=83 -> bits=100001
+[Step 438] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 439] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Keyframe+SYNC READ] step=440 prev_note を G3 に同期、reported_crc=F1
+  block_bits_len=120 actual_crc=F1
+  CRC OK
+[Step 440] decoded note=G3 dur=961 vel=80 -> bits=000010
+[Step 441] decoded note=A3 dur=240 vel=83 -> bits=100001
+[Step 442] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 443] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 444] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 445] decoded note=A3 dur=240 vel=83 -> bits=100001
+[Step 446] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 447] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 448] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 449] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 450] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 451] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 452] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 453] decoded note=A3 dur=960 vel=84 -> bits=100110
+[Step 454] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 455] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 456] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 457] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 458] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 459] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=460 prev_note を A3 に同期、reported_crc=1C
+  block_bits_len=120 actual_crc=1C
+  CRC OK
+[Step 460] decoded note=A3 dur=241 vel=80 -> bits=000001
+[Step 461] decoded note=B3 dur=480 vel=81 -> bits=100100
+[Step 462] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 463] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 464] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 465] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 466] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 467] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 468] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 469] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 470] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 471] decoded note=B3 dur=960 vel=81 -> bits=011010
+[Step 472] decoded note=D4 dur=240 vel=81 -> bits=110001
+[Step 473] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 474] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 475] decoded note=F4 dur=960 vel=80 -> bits=011010
+[Step 476] decoded note=D4 dur=480 vel=80 -> bits=000100
+[Step 477] decoded note=D4 dur=720 vel=82 -> bits=100011
+[Step 478] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 479] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=480 prev_note を D4 に同期、reported_crc=16
+  block_bits_len=120 actual_crc=16
+  CRC OK
+[Step 480] decoded note=D4 dur=241 vel=80 -> bits=000001
+[Step 481] decoded note=E4 dur=240 vel=80 -> bits=100101
+[Step 482] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 483] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 484] decoded note=D4 dur=480 vel=80 -> bits=000000
+[Step 485] decoded note=D4 dur=480 vel=82 -> bits=100000
+[Step 486] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 487] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 488] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 489] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 490] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 491] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 492] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 493] decoded note=B3 dur=480 vel=81 -> bits=100100
+[Step 494] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 495] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 496] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 497] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 498] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 499] decoded note=B3 dur=960 vel=81 -> bits=010010
+[Keyframe+SYNC READ] step=500 prev_note を F4 に同期、reported_crc=4C
+  block_bits_len=120 actual_crc=4C
+  CRC OK
+[Step 500] decoded note=F4 dur=481 vel=80 -> bits=111000
+[Step 501] decoded note=G4 dur=960 vel=82 -> bits=101110
+[Step 502] decoded note=G4 dur=960 vel=83 -> bits=111110
+[Step 503] decoded note=G4 dur=960 vel=80 -> bits=011010
+[Step 504] decoded note=A4 dur=480 vel=81 -> bits=101000
+[Step 505] decoded note=B4 dur=960 vel=81 -> bits=101010
+[Step 506] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Step 507] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 508] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 509] decoded note=D4 dur=720 vel=82 -> bits=100011
+[Step 510] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 511] decoded note=B3 dur=960 vel=82 -> bits=010110
+[Step 512] decoded note=B3 dur=720 vel=81 -> bits=011011
+[Step 513] decoded note=D4 dur=720 vel=80 -> bits=101111
+[Step 514] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 515] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Step 516] decoded note=F4 dur=480 vel=80 -> bits=110000
+[Step 517] decoded note=G4 dur=480 vel=80 -> bits=100100
+[Step 518] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 519] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=520 prev_note を C4 に同期、reported_crc=1E
+  block_bits_len=120 actual_crc=1E
+  CRC OK
+[Step 520] decoded note=C4 dur=241 vel=80 -> bits=000001
+[Step 521] decoded note=D4 dur=960 vel=81 -> bits=101010
+[Step 522] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 523] decoded note=G4 dur=960 vel=82 -> bits=010110
+[Step 524] decoded note=A4 dur=240 vel=82 -> bits=101101
+[Step 525] decoded note=B4 dur=960 vel=80 -> bits=100110
+[Step 526] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 527] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 528] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 529] decoded note=D4 dur=960 vel=80 -> bits=100110
+[Step 530] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 531] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 532] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 533] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 534] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 535] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 536] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 537] decoded note=B3 dur=480 vel=81 -> bits=100100
+[Step 538] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 539] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=540 prev_note を G3 に同期、reported_crc=DE
+  block_bits_len=120 actual_crc=DE
+  CRC OK
+[Step 540] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 541] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 542] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 543] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 544] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 545] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 546] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 547] decoded note=B3 dur=960 vel=80 -> bits=010110
+[Step 548] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 549] decoded note=E4 dur=480 vel=81 -> bits=101000
+[Step 550] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 551] decoded note=B4 dur=960 vel=80 -> bits=100010
+[Step 552] decoded note=B4 dur=480 vel=82 -> bits=101000
+[Step 553] decoded note=B4 dur=480 vel=80 -> bits=100000
+[Step 554] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 555] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 556] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 557] decoded note=D4 dur=240 vel=80 -> bits=100101
+[Step 558] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 559] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=560 prev_note を D4 に同期、reported_crc=E6
+  block_bits_len=120 actual_crc=E6
+  CRC OK
+[Step 560] decoded note=D4 dur=481 vel=80 -> bits=000000
+[Step 561] decoded note=D4 dur=480 vel=82 -> bits=100000
+[Step 562] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 563] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 564] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 565] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 566] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 567] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 568] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 569] decoded note=B3 dur=720 vel=82 -> bits=101011
+[Step 570] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 571] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Step 572] decoded note=B3 dur=960 vel=80 -> bits=000110
+[Step 573] decoded note=D4 dur=480 vel=80 -> bits=101100
+[Step 574] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 575] decoded note=E4 dur=960 vel=80 -> bits=011010
+[Step 576] decoded note=G4 dur=720 vel=80 -> bits=110011
+[Step 577] decoded note=A4 dur=240 vel=80 -> bits=100101
+[Step 578] decoded note=A4 dur=960 vel=81 -> bits=011110
+[Step 579] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=580 prev_note を D4 に同期、reported_crc=9A
+  block_bits_len=120 actual_crc=9A
+  CRC OK
+[Step 580] decoded note=D4 dur=961 vel=80 -> bits=000010
+[Step 581] decoded note=E4 dur=480 vel=80 -> bits=100100
+[Step 582] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 583] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Step 584] decoded note=F4 dur=960 vel=82 -> bits=100010
+[Step 585] decoded note=G4 dur=960 vel=82 -> bits=101110
+[Step 586] decoded note=A4 dur=960 vel=82 -> bits=101110
+[Step 587] decoded note=G4 dur=960 vel=82 -> bits=010110
+[Step 588] decoded note=A4 dur=960 vel=82 -> bits=101110
+[Step 589] decoded note=B4 dur=960 vel=80 -> bits=100110
+[Step 590] decoded note=B4 dur=960 vel=83 -> bits=101110
+[Step 591] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 592] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 593] decoded note=E4 dur=960 vel=80 -> bits=100110
+[Step 594] decoded note=E4 dur=960 vel=81 -> bits=011110
+[Step 595] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 596] decoded note=A3 dur=960 vel=80 -> bits=000010
+[Step 597] decoded note=B3 dur=960 vel=80 -> bits=100010
+[Step 598] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 599] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=600 prev_note を G3 に同期、reported_crc=1C
+  block_bits_len=120 actual_crc=1C
+  CRC OK
+[Step 600] decoded note=G3 dur=481 vel=80 -> bits=000000
+[Step 601] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 602] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 603] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 604] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 605] decoded note=A3 dur=720 vel=84 -> bits=100111
+[Step 606] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 607] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 608] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 609] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 610] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 611] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 612] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 613] decoded note=A3 dur=720 vel=84 -> bits=100111
+[Step 614] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 615] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 616] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 617] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 618] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 619] decoded note=B3 dur=960 vel=80 -> bits=010110
+[Keyframe+SYNC READ] step=620 prev_note を B3 に同期、reported_crc=CA
+  block_bits_len=120 actual_crc=CA
+  CRC OK
+[Step 620] decoded note=B3 dur=721 vel=81 -> bits=011011
+[Step 621] decoded note=D4 dur=720 vel=80 -> bits=101111
+[Step 622] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 623] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Step 624] decoded note=C4 dur=480 vel=82 -> bits=010100
+[Step 625] decoded note=D4 dur=720 vel=82 -> bits=101111
+[Step 626] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 627] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 628] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 629] decoded note=E4 dur=720 vel=81 -> bits=101011
+[Step 630] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 631] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 632] decoded note=D4 dur=480 vel=80 -> bits=000000
+[Step 633] decoded note=D4 dur=480 vel=82 -> bits=100000
+[Step 634] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 635] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 636] decoded note=C4 dur=720 vel=80 -> bits=011011
+[Step 637] decoded note=D4 dur=720 vel=82 -> bits=101111
+[Step 638] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 639] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Keyframe+SYNC READ] step=640 prev_note を F4 に同期、reported_crc=B8
+  block_bits_len=120 actual_crc=B8
+  CRC OK
+[Step 640] decoded note=F4 dur=481 vel=80 -> bits=110000
+[Step 641] decoded note=G4 dur=480 vel=80 -> bits=100100
+[Step 642] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 643] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 644] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 645] decoded note=D4 dur=720 vel=81 -> bits=101011
+[Step 646] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 647] decoded note=D4 dur=960 vel=82 -> bits=010110
+[Step 648] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 649] decoded note=D4 dur=480 vel=82 -> bits=101100
+[Step 650] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 651] decoded note=A4 dur=960 vel=81 -> bits=011110
+[Step 652] decoded note=C5 dur=960 vel=80 -> bits=110010
+[Step 653] decoded note=B4 dur=960 vel=83 -> bits=100110
+[Step 654] decoded note=C5 dur=960 vel=83 -> bits=111110
+[Step 655] decoded note=A4 dur=960 vel=81 -> bits=001110
+[Step 656] decoded note=E4 dur=240 vel=80 -> bits=000001
+[Step 657] decoded note=F4 dur=960 vel=81 -> bits=101010
+[Step 658] decoded note=G4 dur=960 vel=82 -> bits=101110
+[Step 659] decoded note=F4 dur=960 vel=81 -> bits=010010
+[Keyframe+SYNC READ] step=660 prev_note を C5 に同期、reported_crc=FC
+  block_bits_len=120 actual_crc=FC
+  CRC OK
+[Step 660] decoded note=C5 dur=721 vel=80 -> bits=111111
+[Step 661] decoded note=B4 dur=480 vel=84 -> bits=101000
+[Step 662] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Step 663] decoded note=A4 dur=960 vel=82 -> bits=100010
+[Step 664] decoded note=B4 dur=480 vel=81 -> bits=101000
+[Step 665] decoded note=B4 dur=240 vel=81 -> bits=100101
+[Step 666] decoded note=C5 dur=960 vel=83 -> bits=111110
+[Step 667] decoded note=A4 dur=960 vel=81 -> bits=001110
+[Step 668] decoded note=E4 dur=240 vel=80 -> bits=000001
+[Step 669] decoded note=F4 dur=960 vel=81 -> bits=101010
+[Step 670] decoded note=C5 dur=960 vel=80 -> bits=111110
+[Step 671] decoded note=A4 dur=960 vel=81 -> bits=001110
+[Step 672] decoded note=E4 dur=960 vel=80 -> bits=000010
+[Step 673] decoded note=E4 dur=960 vel=82 -> bits=100010
+[Step 674] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 675] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 676] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 677] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 678] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 679] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=680 prev_note を A3 に同期、reported_crc=3C
+  block_bits_len=120 actual_crc=3C
+  CRC OK
+[Step 680] decoded note=A3 dur=961 vel=80 -> bits=000010
+[Step 681] decoded note=B3 dur=480 vel=80 -> bits=100000
+[Step 682] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 683] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 684] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 685] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 686] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 687] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 688] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 689] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 690] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 691] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 692] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 693] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 694] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 695] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 696] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 697] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 698] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 699] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Keyframe+SYNC READ] step=700 prev_note を G3 に同期、reported_crc=6A
+  block_bits_len=120 actual_crc=6A
+  CRC OK
+[Step 700] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 701] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 702] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 703] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 704] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 705] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 706] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 707] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 708] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 709] decoded note=A3 dur=720 vel=84 -> bits=100111
+[Step 710] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 711] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 712] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 713] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 714] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 715] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Step 716] decoded note=E4 dur=480 vel=81 -> bits=101000
+[Step 717] decoded note=F4 dur=960 vel=81 -> bits=101010
+[Step 718] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Step 719] decoded note=E4 dur=960 vel=82 -> bits=010110
+[Keyframe+SYNC READ] step=720 prev_note を F4 に同期、reported_crc=DB
+  block_bits_len=120 actual_crc=DB
+  CRC OK
+[Step 720] decoded note=F4 dur=481 vel=81 -> bits=101000
+[Step 721] decoded note=F4 dur=480 vel=82 -> bits=100000
+[Step 722] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Step 723] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 724] decoded note=B3 dur=240 vel=80 -> bits=000001
+[Step 725] decoded note=C4 dur=720 vel=82 -> bits=101011
+[Step 726] decoded note=G4 dur=960 vel=80 -> bits=111110
+[Step 727] decoded note=F4 dur=960 vel=82 -> bits=010110
+[Step 728] decoded note=F4 dur=720 vel=80 -> bits=011011
+[Step 729] decoded note=G4 dur=720 vel=82 -> bits=101111
+[Step 730] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 731] decoded note=G4 dur=960 vel=80 -> bits=011010
+[Step 732] decoded note=B4 dur=480 vel=80 -> bits=110000
+[Step 733] decoded note=B4 dur=480 vel=81 -> bits=100100
+[Step 734] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Step 735] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 736] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 737] decoded note=E4 dur=960 vel=81 -> bits=101010
+[Step 738] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 739] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Keyframe+SYNC READ] step=740 prev_note を G4 に同期、reported_crc=7F
+  block_bits_len=120 actual_crc=7F
+  CRC OK
+[Step 740] decoded note=G4 dur=481 vel=82 -> bits=010100
+[Step 741] decoded note=A4 dur=480 vel=82 -> bits=101100
+[Step 742] decoded note=A4 dur=960 vel=81 -> bits=011110
+[Step 743] decoded note=A4 dur=960 vel=80 -> bits=011010
+[Step 744] decoded note=A4 dur=240 vel=81 -> bits=011101
+[Step 745] decoded note=B4 dur=240 vel=81 -> bits=101001
+[Step 746] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Step 747] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 748] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 749] decoded note=E4 dur=240 vel=80 -> bits=100101
+[Step 750] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 751] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 752] decoded note=D4 dur=480 vel=80 -> bits=000000
+[Step 753] decoded note=D4 dur=480 vel=82 -> bits=100000
+[Step 754] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 755] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 756] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 757] decoded note=A3 dur=720 vel=84 -> bits=100111
+[Step 758] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 759] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Keyframe+SYNC READ] step=760 prev_note を G3 に同期、reported_crc=02
+  block_bits_len=120 actual_crc=02
+  CRC OK
+[Step 760] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 761] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 762] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 763] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Step 764] decoded note=E4 dur=480 vel=81 -> bits=101000
+[Step 765] decoded note=F4 dur=960 vel=81 -> bits=101010
+[Step 766] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Step 767] decoded note=E4 dur=960 vel=82 -> bits=010110
+[Step 768] decoded note=C4 dur=960 vel=81 -> bits=001010
+[Step 769] decoded note=D4 dur=960 vel=80 -> bits=100110
+[Step 770] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 771] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 772] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 773] decoded note=E4 dur=720 vel=81 -> bits=101011
+[Step 774] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 775] decoded note=A4 dur=960 vel=81 -> bits=010110
+[Step 776] decoded note=A4 dur=720 vel=80 -> bits=011011
+[Step 777] decoded note=B4 dur=720 vel=82 -> bits=101111
+[Step 778] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Step 779] decoded note=A4 dur=960 vel=80 -> bits=011010
+[Keyframe+SYNC READ] step=780 prev_note を C5 に同期、reported_crc=E5
+  block_bits_len=120 actual_crc=E5
+  CRC OK
+[Step 780] decoded note=C5 dur=481 vel=80 -> bits=110000
+[Step 781] decoded note=B4 dur=480 vel=83 -> bits=100100
+[Step 782] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Step 783] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 784] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 785] decoded note=E4 dur=720 vel=81 -> bits=101011
+[Step 786] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 787] decoded note=E4 dur=960 vel=81 -> bits=010010
+[Step 788] decoded note=A4 dur=720 vel=80 -> bits=111011
+[Step 789] decoded note=B4 dur=480 vel=81 -> bits=101000
+[Step 790] decoded note=C5 dur=960 vel=83 -> bits=111110
+[Step 791] decoded note=B4 dur=960 vel=82 -> bits=100010
+[Step 792] decoded note=B4 dur=240 vel=80 -> bits=100001
+[Step 793] decoded note=B4 dur=960 vel=82 -> bits=101010
+[Step 794] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 795] decoded note=G4 dur=960 vel=82 -> bits=100010
+[Step 796] decoded note=D4 dur=480 vel=80 -> bits=000000
+[Step 797] decoded note=D4 dur=240 vel=82 -> bits=100001
+[Step 798] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 799] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=800 prev_note を G3 に同期、reported_crc=EE
+  block_bits_len=120 actual_crc=EE
+  CRC OK
+[Step 800] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 801] decoded note=A3 dur=720 vel=83 -> bits=100011
+[Step 802] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 803] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 804] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 805] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 806] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 807] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 808] decoded note=A3 dur=960 vel=80 -> bits=000010
+[Step 809] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 810] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 811] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 812] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 813] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 814] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 815] decoded note=C4 dur=960 vel=80 -> bits=100010
+[Step 816] decoded note=C4 dur=240 vel=82 -> bits=100001
+[Step 817] decoded note=C4 dur=720 vel=82 -> bits=100011
+[Step 818] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 819] decoded note=A3 dur=960 vel=82 -> bits=010010
+[Keyframe+SYNC READ] step=820 prev_note を E4 に同期、reported_crc=47
+  block_bits_len=120 actual_crc=47
+  CRC OK
+[Step 820] decoded note=E4 dur=241 vel=80 -> bits=111101
+[Step 821] decoded note=F4 dur=720 vel=82 -> bits=101111
+[Step 822] decoded note=C5 dur=960 vel=80 -> bits=111110
+[Step 823] decoded note=A4 dur=960 vel=81 -> bits=001110
+[Step 824] decoded note=E4 dur=240 vel=80 -> bits=000001
+[Step 825] decoded note=F4 dur=240 vel=80 -> bits=100101
+[Step 826] decoded note=C5 dur=960 vel=80 -> bits=111110
+[Step 827] decoded note=A4 dur=960 vel=81 -> bits=001110
+[Step 828] decoded note=E4 dur=480 vel=80 -> bits=000000
+[Step 829] decoded note=E4 dur=480 vel=82 -> bits=100000
+[Step 830] decoded note=E4 dur=960 vel=81 -> bits=011110
+[Step 831] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 832] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 833] decoded note=B3 dur=720 vel=81 -> bits=100111
+[Step 834] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 835] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 836] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 837] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 838] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 839] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Keyframe+SYNC READ] step=840 prev_note を E4 に同期、reported_crc=A8
+  block_bits_len=120 actual_crc=A8
+  CRC OK
+[Step 840] decoded note=E4 dur=961 vel=80 -> bits=100110
+[Step 841] decoded note=E4 dur=720 vel=82 -> bits=100011
+[Step 842] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 843] decoded note=A4 dur=960 vel=81 -> bits=010110
+[Step 844] decoded note=F4 dur=480 vel=81 -> bits=001000
+[Step 845] decoded note=G4 dur=960 vel=81 -> bits=101010
+[Step 846] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 847] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 848] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 849] decoded note=D4 dur=720 vel=81 -> bits=101011
+[Step 850] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 851] decoded note=G4 dur=960 vel=82 -> bits=010110
+[Step 852] decoded note=G4 dur=720 vel=80 -> bits=011011
+[Step 853] decoded note=A4 dur=720 vel=82 -> bits=101111
+[Step 854] decoded note=A4 dur=960 vel=81 -> bits=011110
+[Step 855] decoded note=A4 dur=960 vel=80 -> bits=011010
+[Step 856] decoded note=C5 dur=480 vel=80 -> bits=110000
+[Step 857] decoded note=B4 dur=480 vel=83 -> bits=100100
+[Step 858] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Step 859] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=860 prev_note を D4 に同期、reported_crc=37
+  block_bits_len=120 actual_crc=37
+  CRC OK
+[Step 860] decoded note=D4 dur=241 vel=80 -> bits=000001
+[Step 861] decoded note=D4 dur=720 vel=82 -> bits=100011
+[Step 862] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 863] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 864] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 865] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 866] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 867] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 868] decoded note=A3 dur=960 vel=80 -> bits=000010
+[Step 869] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 870] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 871] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 872] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 873] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 874] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 875] decoded note=A3 dur=960 vel=82 -> bits=010010
+[Step 876] decoded note=D4 dur=960 vel=80 -> bits=111010
+[Step 877] decoded note=E4 dur=960 vel=81 -> bits=101010
+[Step 878] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 879] decoded note=A4 dur=960 vel=81 -> bits=010110
+[Keyframe+SYNC READ] step=880 prev_note を G4 に同期、reported_crc=E2
+  block_bits_len=120 actual_crc=E2
+  CRC OK
+[Step 880] decoded note=G4 dur=721 vel=80 -> bits=001111
+[Step 881] decoded note=A4 dur=240 vel=80 -> bits=100101
+[Step 882] decoded note=A4 dur=960 vel=84 -> bits=111110
+[Step 883] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 884] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 885] decoded note=E4 dur=960 vel=80 -> bits=100110
+[Step 886] decoded note=E4 dur=960 vel=81 -> bits=011110
+[Step 887] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 888] decoded note=A3 dur=960 vel=80 -> bits=000010
+[Step 889] decoded note=B3 dur=960 vel=80 -> bits=100010
+[Step 890] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 891] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 892] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 893] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 894] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 895] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 896] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 897] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 898] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 899] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=900 prev_note を A3 に同期、reported_crc=1C
+  block_bits_len=120 actual_crc=1C
+  CRC OK
+[Step 900] decoded note=A3 dur=961 vel=80 -> bits=000010
+[Step 901] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 902] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 903] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 904] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 905] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 906] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 907] decoded note=B3 dur=960 vel=81 -> bits=010010
+[Step 908] decoded note=F4 dur=960 vel=80 -> bits=111010
+[Step 909] decoded note=G4 dur=960 vel=82 -> bits=101110
+[Step 910] decoded note=A4 dur=960 vel=82 -> bits=101110
+[Step 911] decoded note=B4 dur=960 vel=80 -> bits=100110
+[Step 912] decoded note=B4 dur=240 vel=80 -> bits=100001
+[Step 913] decoded note=B4 dur=720 vel=81 -> bits=100111
+[Step 914] decoded note=B4 dur=960 vel=83 -> bits=101110
+[Step 915] decoded note=A4 dur=960 vel=82 -> bits=011010
+[Step 916] decoded note=A4 dur=240 vel=80 -> bits=011001
+[Step 917] decoded note=B4 dur=720 vel=81 -> bits=101011
+[Step 918] decoded note=B4 dur=960 vel=83 -> bits=101110
+[Step 919] decoded note=B4 dur=960 vel=81 -> bits=100110
+[Keyframe+SYNC READ] step=920 prev_note を F4 に同期、reported_crc=A5
+  block_bits_len=120 actual_crc=A5
+  CRC OK
+[Step 920] decoded note=F4 dur=241 vel=80 -> bits=000001
+[Step 921] decoded note=F4 dur=720 vel=82 -> bits=100011
+[Step 922] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Step 923] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 924] decoded note=B3 dur=240 vel=80 -> bits=000001
+[Step 925] decoded note=C4 dur=720 vel=82 -> bits=101011
+[Step 926] decoded note=D4 dur=960 vel=82 -> bits=101110
+[Step 927] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 928] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 929] decoded note=C4 dur=720 vel=81 -> bits=100111
+[Step 930] decoded note=G4 dur=960 vel=80 -> bits=111110
+[Step 931] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 932] decoded note=F4 dur=480 vel=81 -> bits=010000
+[Step 933] decoded note=F4 dur=240 vel=82 -> bits=100001
+[Step 934] decoded note=G4 dur=960 vel=82 -> bits=101110
+[Step 935] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 936] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 937] decoded note=D4 dur=240 vel=81 -> bits=101001
+[Step 938] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 939] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=940 prev_note を D4 に同期、reported_crc=DF
+  block_bits_len=120 actual_crc=DF
+  CRC OK
+[Step 940] decoded note=D4 dur=241 vel=80 -> bits=000001
+[Step 941] decoded note=D4 dur=480 vel=82 -> bits=100000
+[Step 942] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 943] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 944] decoded note=A3 dur=960 vel=80 -> bits=000010
+[Step 945] decoded note=B3 dur=960 vel=80 -> bits=100010
+[Step 946] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 947] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 948] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 949] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 950] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 951] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 952] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 953] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 954] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 955] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 956] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 957] decoded note=B3 dur=720 vel=82 -> bits=101011
+[Step 958] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 959] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Keyframe+SYNC READ] step=960 prev_note を B3 に同期、reported_crc=23
+  block_bits_len=120 actual_crc=23
+  CRC OK
+[Step 960] decoded note=B3 dur=961 vel=80 -> bits=000110
+[Step 961] decoded note=D4 dur=480 vel=80 -> bits=101100
+[Step 962] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 963] decoded note=E4 dur=960 vel=80 -> bits=011010
+[Step 964] decoded note=G4 dur=720 vel=80 -> bits=110011
+[Step 965] decoded note=A4 dur=240 vel=80 -> bits=100101
+[Step 966] decoded note=A4 dur=960 vel=81 -> bits=011110
+[Step 967] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 968] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 969] decoded note=E4 dur=720 vel=81 -> bits=101011
+[Step 970] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 971] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 972] decoded note=D4 dur=480 vel=80 -> bits=000000
+[Step 973] decoded note=D4 dur=480 vel=82 -> bits=100000
+[Step 974] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 975] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 976] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 977] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 978] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 979] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=980 prev_note を A3 に同期、reported_crc=25
+  block_bits_len=120 actual_crc=25
+  CRC OK
+[Step 980] decoded note=A3 dur=241 vel=80 -> bits=000001
+[Step 981] decoded note=B3 dur=960 vel=80 -> bits=100010
+[Step 982] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 983] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 984] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 985] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 986] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 987] decoded note=D4 dur=960 vel=82 -> bits=010110
+[Step 988] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 989] decoded note=D4 dur=720 vel=80 -> bits=100111
+[Step 990] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 991] decoded note=A4 dur=960 vel=81 -> bits=011110
+[Step 992] decoded note=G4 dur=480 vel=81 -> bits=010000
+[Step 993] decoded note=G4 dur=240 vel=82 -> bits=100001
+[Step 994] decoded note=A4 dur=960 vel=82 -> bits=101110
+[Step 995] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 996] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 997] decoded note=E4 dur=960 vel=81 -> bits=101010
+[Step 998] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 999] decoded note=A4 dur=960 vel=81 -> bits=010110
+[Keyframe+SYNC READ] step=1000 prev_note を A4 に同期、reported_crc=B2
+  block_bits_len=120 actual_crc=B2
+  CRC OK
+[Step 1000] decoded note=A4 dur=721 vel=81 -> bits=011111
+[Step 1001] decoded note=B4 dur=960 vel=82 -> bits=101110
+[Step 1002] decoded note=B4 dur=960 vel=83 -> bits=101110
+[Step 1003] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 1004] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 1005] decoded note=D4 dur=720 vel=82 -> bits=100011
+[Step 1006] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 1007] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 1008] decoded note=D4 dur=960 vel=80 -> bits=000010
+[Step 1009] decoded note=D4 dur=480 vel=82 -> bits=100000
+[Step 1010] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 1011] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1012] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 1013] decoded note=B3 dur=720 vel=82 -> bits=101011
+[Step 1014] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 1015] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1016] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1017] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 1018] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 1019] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=1020 prev_note を G3 に同期、reported_crc=F4
+  block_bits_len=120 actual_crc=F4
+  CRC OK
+[Step 1020] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 1021] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 1022] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 1023] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1024] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1025] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 1026] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 1027] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1028] decoded note=A3 dur=480 vel=80 -> bits=000000
+[Step 1029] decoded note=B3 dur=480 vel=80 -> bits=100000
+[Step 1030] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 1031] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1032] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1033] decoded note=A3 dur=720 vel=83 -> bits=100011
+[Step 1034] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 1035] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1036] decoded note=A3 dur=960 vel=80 -> bits=000010
+[Step 1037] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 1038] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1039] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Keyframe+SYNC READ] step=1040 prev_note を G3 に同期、reported_crc=14
+  block_bits_len=120 actual_crc=14
+  CRC OK
+[Step 1040] decoded note=G3 dur=961 vel=80 -> bits=000010
+[Step 1041] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 1042] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1043] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1044] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1045] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 1046] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 1047] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 1048] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 1049] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 1050] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1051] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1052] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1053] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 1054] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 1055] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1056] decoded note=A3 dur=960 vel=80 -> bits=000010
+[Step 1057] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 1058] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1059] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Keyframe+SYNC READ] step=1060 prev_note を G3 に同期、reported_crc=B7
+  block_bits_len=120 actual_crc=B7
+  CRC OK
+[Step 1060] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 1061] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 1062] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 1063] decoded note=B3 dur=960 vel=82 -> bits=010110
+[Step 1064] decoded note=A3 dur=720 vel=81 -> bits=001111
+[Step 1065] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 1066] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 1067] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1068] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1069] decoded note=A3 dur=960 vel=84 -> bits=100110
+[Step 1070] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1071] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1072] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1073] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 1074] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 1075] decoded note=D4 dur=960 vel=81 -> bits=010010
+[Step 1076] decoded note=G4 dur=480 vel=80 -> bits=111000
+[Step 1077] decoded note=G4 dur=480 vel=82 -> bits=100000
+[Step 1078] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 1079] decoded note=E4 dur=960 vel=82 -> bits=010110
+[Keyframe+SYNC READ] step=1080 prev_note を C4 に同期、reported_crc=92
+  block_bits_len=120 actual_crc=92
+  CRC OK
+[Step 1080] decoded note=C4 dur=481 vel=81 -> bits=001000
+[Step 1081] decoded note=C4 dur=240 vel=82 -> bits=100001
+[Step 1082] decoded note=G4 dur=960 vel=80 -> bits=111110
+[Step 1083] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 1084] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 1085] decoded note=D4 dur=720 vel=81 -> bits=101011
+[Step 1086] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 1087] decoded note=E4 dur=960 vel=80 -> bits=011010
+[Step 1088] decoded note=C4 dur=960 vel=80 -> bits=000110
+[Step 1089] decoded note=D4 dur=480 vel=82 -> bits=101100
+[Step 1090] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 1091] decoded note=E4 dur=960 vel=80 -> bits=011010
+[Step 1092] decoded note=G4 dur=720 vel=80 -> bits=110011
+[Step 1093] decoded note=A4 dur=240 vel=80 -> bits=100101
+[Step 1094] decoded note=A4 dur=960 vel=81 -> bits=011110
+[Step 1095] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 1096] decoded note=D4 dur=480 vel=80 -> bits=000000
+[Step 1097] decoded note=D4 dur=480 vel=82 -> bits=100000
+[Step 1098] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 1099] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Keyframe+SYNC READ] step=1100 prev_note を F4 に同期、reported_crc=F9
+  block_bits_len=120 actual_crc=F9
+  CRC OK
+[Step 1100] decoded note=F4 dur=721 vel=80 -> bits=110011
+[Step 1101] decoded note=G4 dur=240 vel=80 -> bits=100101
+[Step 1102] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 1103] decoded note=F4 dur=960 vel=81 -> bits=010010
+[Step 1104] decoded note=B4 dur=720 vel=80 -> bits=111011
+[Step 1105] decoded note=B4 dur=240 vel=82 -> bits=101001
+[Step 1106] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 1107] decoded note=F4 dur=960 vel=82 -> bits=010110
+[Step 1108] decoded note=E4 dur=720 vel=80 -> bits=001111
+[Step 1109] decoded note=E4 dur=960 vel=82 -> bits=100010
+[Step 1110] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 1111] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 1112] decoded note=B3 dur=240 vel=80 -> bits=000001
+[Step 1113] decoded note=D4 dur=480 vel=80 -> bits=101100
+[Step 1114] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 1115] decoded note=A4 dur=960 vel=82 -> bits=100010
+[Step 1116] decoded note=B4 dur=240 vel=81 -> bits=101001
+[Step 1117] decoded note=B4 dur=240 vel=81 -> bits=100101
+[Step 1118] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 1119] decoded note=F4 dur=960 vel=82 -> bits=010110
+[Keyframe+SYNC READ] step=1120 prev_note を D4 に同期、reported_crc=3C
+  block_bits_len=120 actual_crc=3C
+  CRC OK
+[Step 1120] decoded note=D4 dur=721 vel=81 -> bits=001011
+[Step 1121] decoded note=D4 dur=240 vel=82 -> bits=100001
+[Step 1122] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 1123] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1124] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1125] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 1126] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 1127] decoded note=B3 dur=960 vel=81 -> bits=011010
+[Step 1128] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1129] decoded note=B3 dur=480 vel=81 -> bits=100100
+[Step 1130] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 1131] decoded note=E4 dur=960 vel=80 -> bits=100110
+[Step 1132] decoded note=E4 dur=240 vel=80 -> bits=011001
+[Step 1133] decoded note=F4 dur=240 vel=81 -> bits=101001
+[Step 1134] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 1135] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1136] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 1137] decoded note=B3 dur=960 vel=81 -> bits=100110
+[Step 1138] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 1139] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Keyframe+SYNC READ] step=1140 prev_note を G3 に同期、reported_crc=08
+  block_bits_len=120 actual_crc=08
+  CRC OK
+[Step 1140] decoded note=G3 dur=961 vel=80 -> bits=000010
+[Step 1141] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 1142] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 1143] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1144] decoded note=A3 dur=480 vel=80 -> bits=000000
+[Step 1145] decoded note=B3 dur=480 vel=80 -> bits=100000
+[Step 1146] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 1147] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Step 1148] decoded note=C4 dur=720 vel=82 -> bits=010111
+[Step 1149] decoded note=D4 dur=240 vel=81 -> bits=101001
+[Step 1150] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 1151] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Step 1152] decoded note=D4 dur=480 vel=81 -> bits=011100
+[Step 1153] decoded note=E4 dur=720 vel=81 -> bits=101011
+[Step 1154] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1155] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 1156] decoded note=C4 dur=720 vel=80 -> bits=011011
+[Step 1157] decoded note=D4 dur=720 vel=82 -> bits=101111
+[Step 1158] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 1159] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Keyframe+SYNC READ] step=1160 prev_note を F4 に同期、reported_crc=38
+  block_bits_len=120 actual_crc=38
+  CRC OK
+[Step 1160] decoded note=F4 dur=481 vel=80 -> bits=110000
+[Step 1161] decoded note=G4 dur=480 vel=80 -> bits=100100
+[Step 1162] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 1163] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 1164] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 1165] decoded note=D4 dur=720 vel=81 -> bits=101011
+[Step 1166] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 1167] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 1168] decoded note=D4 dur=480 vel=80 -> bits=000000
+[Step 1169] decoded note=D4 dur=480 vel=82 -> bits=100000
+[Step 1170] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 1171] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Step 1172] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 1173] decoded note=B3 dur=480 vel=81 -> bits=100100
+[Step 1174] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 1175] decoded note=C4 dur=960 vel=81 -> bits=010010
+[Step 1176] decoded note=F4 dur=240 vel=80 -> bits=111001
+[Step 1177] decoded note=F4 dur=240 vel=82 -> bits=100001
+[Step 1178] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Step 1179] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=1180 prev_note を B3 に同期、reported_crc=23
+  block_bits_len=120 actual_crc=23
+  CRC OK
+[Step 1180] decoded note=B3 dur=241 vel=80 -> bits=000001
+[Step 1181] decoded note=C4 dur=720 vel=82 -> bits=101011
+[Step 1182] decoded note=D4 dur=960 vel=82 -> bits=101110
+[Step 1183] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 1184] decoded note=F4 dur=240 vel=80 -> bits=111001
+[Step 1185] decoded note=G4 dur=480 vel=82 -> bits=101100
+[Step 1186] decoded note=G4 dur=960 vel=83 -> bits=111110
+[Step 1187] decoded note=F4 dur=960 vel=82 -> bits=010110
+[Step 1188] decoded note=E4 dur=960 vel=81 -> bits=010010
+[Step 1189] decoded note=E4 dur=720 vel=82 -> bits=100011
+[Step 1190] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1191] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1192] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1193] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 1194] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 1195] decoded note=B3 dur=960 vel=80 -> bits=010110
+[Step 1196] decoded note=C4 dur=720 vel=83 -> bits=111111
+[Step 1197] decoded note=D4 dur=240 vel=82 -> bits=101101
+[Step 1198] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 1199] decoded note=E4 dur=960 vel=80 -> bits=100110
+[Keyframe+SYNC READ] step=1200 prev_note を E4 に同期、reported_crc=F5
+  block_bits_len=120 actual_crc=F5
+  CRC OK
+[Step 1200] decoded note=E4 dur=241 vel=82 -> bits=100001
+[Step 1201] decoded note=F4 dur=960 vel=80 -> bits=100110
+[Step 1202] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 1203] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1204] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 1205] decoded note=B3 dur=240 vel=81 -> bits=100101
+[Step 1206] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 1207] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 1208] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 1209] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 1210] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1211] decoded note=A3 dur=960 vel=80 -> bits=010010
+[Step 1212] decoded note=D4 dur=960 vel=80 -> bits=111010
+[Step 1213] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 1214] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 1215] decoded note=G4 dur=960 vel=80 -> bits=100110
+[Step 1216] decoded note=F4 dur=960 vel=82 -> bits=010110
+[Step 1217] decoded note=G4 dur=480 vel=80 -> bits=100100
+[Step 1218] decoded note=G4 dur=960 vel=83 -> bits=111110
+[Step 1219] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Keyframe+SYNC READ] step=1220 prev_note を G4 に同期、reported_crc=10
+  block_bits_len=120 actual_crc=10
+  CRC OK
+[Step 1220] decoded note=G4 dur=721 vel=80 -> bits=011011
+[Step 1221] decoded note=A4 dur=960 vel=82 -> bits=101110
+[Step 1222] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 1223] decoded note=F4 dur=960 vel=81 -> bits=010010
+[Step 1224] decoded note=B4 dur=960 vel=80 -> bits=111010
+[Step 1225] decoded note=B4 dur=480 vel=81 -> bits=100100
+[Step 1226] decoded note=B4 dur=960 vel=83 -> bits=101110
+[Step 1227] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 1228] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 1229] decoded note=E4 dur=720 vel=81 -> bits=101011
+[Step 1230] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 1231] decoded note=G4 dur=960 vel=80 -> bits=100110
+[Step 1232] decoded note=F4 dur=960 vel=82 -> bits=010110
+[Step 1233] decoded note=G4 dur=480 vel=81 -> bits=101000
+[Step 1234] decoded note=A4 dur=960 vel=82 -> bits=101110
+[Step 1235] decoded note=G4 dur=960 vel=81 -> bits=010010
+[Step 1236] decoded note=G4 dur=720 vel=83 -> bits=111111
+[Step 1237] decoded note=G4 dur=480 vel=82 -> bits=100000
+[Step 1238] decoded note=A4 dur=960 vel=82 -> bits=101110
+[Step 1239] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=1240 prev_note を D4 に同期、reported_crc=65
+  block_bits_len=120 actual_crc=65
+  CRC OK
+[Step 1240] decoded note=D4 dur=961 vel=80 -> bits=000010
+[Step 1241] decoded note=E4 dur=480 vel=80 -> bits=100100
+[Step 1242] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 1243] decoded note=F4 dur=960 vel=80 -> bits=011010
+[Step 1244] decoded note=E4 dur=480 vel=82 -> bits=010100
+[Step 1245] decoded note=F4 dur=720 vel=81 -> bits=101011
+[Step 1246] decoded note=C5 dur=960 vel=80 -> bits=111110
+[Step 1247] decoded note=B4 dur=960 vel=83 -> bits=100110
+[Step 1248] decoded note=G4 dur=240 vel=80 -> bits=000101
+[Step 1249] decoded note=G4 dur=720 vel=82 -> bits=100011
+[Step 1250] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 1251] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 1252] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 1253] decoded note=D4 dur=960 vel=80 -> bits=100110
+[Step 1254] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 1255] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1256] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1257] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 1258] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 1259] decoded note=D4 dur=960 vel=82 -> bits=010110
+[Keyframe+SYNC READ] step=1260 prev_note を F4 に同期、reported_crc=A5
+  block_bits_len=120 actual_crc=A5
+  CRC OK
+[Step 1260] decoded note=F4 dur=481 vel=81 -> bits=110100
+[Step 1261] decoded note=F4 dur=240 vel=82 -> bits=100001
+[Step 1262] decoded note=C5 dur=960 vel=80 -> bits=111110
+[Step 1263] decoded note=B4 dur=960 vel=83 -> bits=100110
+[Step 1264] decoded note=B4 dur=720 vel=82 -> bits=101011
+[Step 1265] decoded note=B4 dur=960 vel=81 -> bits=100110
+[Step 1266] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 1267] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 1268] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 1269] decoded note=D4 dur=960 vel=81 -> bits=101010
+[Step 1270] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 1271] decoded note=E4 dur=960 vel=81 -> bits=011110
+[Step 1272] decoded note=D4 dur=480 vel=81 -> bits=010000
+[Step 1273] decoded note=D4 dur=240 vel=82 -> bits=100001
+[Step 1274] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 1275] decoded note=E4 dur=960 vel=80 -> bits=011010
+[Step 1276] decoded note=B3 dur=720 vel=80 -> bits=000011
+[Step 1277] decoded note=D4 dur=480 vel=80 -> bits=101100
+[Step 1278] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 1279] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=1280 prev_note を D4 に同期、reported_crc=C8
+  block_bits_len=120 actual_crc=C8
+  CRC OK
+[Step 1280] decoded note=D4 dur=961 vel=80 -> bits=000010
+[Step 1281] decoded note=E4 dur=480 vel=80 -> bits=100100
+[Step 1282] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 1283] decoded note=F4 dur=960 vel=80 -> bits=011010
+[Step 1284] decoded note=A4 dur=720 vel=81 -> bits=110111
+[Step 1285] decoded note=B4 dur=480 vel=82 -> bits=101100
+[Step 1286] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Step 1287] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 1288] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 1289] decoded note=D4 dur=720 vel=82 -> bits=100011
+[Step 1290] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 1291] decoded note=A4 dur=960 vel=82 -> bits=100010
+[Step 1292] decoded note=F4 dur=720 vel=80 -> bits=000111
+[Step 1293] decoded note=G4 dur=960 vel=81 -> bits=101010
+[Step 1294] decoded note=A4 dur=960 vel=82 -> bits=101110
+[Step 1295] decoded note=A4 dur=960 vel=82 -> bits=100010
+[Step 1296] decoded note=B4 dur=960 vel=80 -> bits=100110
+[Step 1297] decoded note=B4 dur=960 vel=81 -> bits=100110
+[Step 1298] decoded note=B4 dur=960 vel=83 -> bits=101110
+[Step 1299] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Keyframe+SYNC READ] step=1300 prev_note を D4 に同期、reported_crc=3D
+  block_bits_len=120 actual_crc=3D
+  CRC OK
+[Step 1300] decoded note=D4 dur=241 vel=80 -> bits=000001
+[Step 1301] decoded note=E4 dur=960 vel=80 -> bits=100110
+[Step 1302] decoded note=E4 dur=960 vel=81 -> bits=011110
+[Step 1303] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1304] decoded note=A3 dur=960 vel=80 -> bits=000010
+[Step 1305] decoded note=B3 dur=960 vel=80 -> bits=100010
+[Step 1306] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 1307] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 1308] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1309] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 1310] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 1311] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1312] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1313] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 1314] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 1315] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 1316] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1317] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 1318] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 1319] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Keyframe+SYNC READ] step=1320 prev_note を G3 に同期、reported_crc=54
+  block_bits_len=120 actual_crc=54
+  CRC OK
+[Step 1320] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 1321] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 1322] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1323] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1324] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1325] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 1326] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 1327] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1328] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 1329] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 1330] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1331] decoded note=A3 dur=960 vel=81 -> bits=010110
+[Step 1332] decoded note=D4 dur=240 vel=80 -> bits=111001
+[Step 1333] decoded note=E4 dur=480 vel=82 -> bits=101100
+[Step 1334] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 1335] decoded note=A4 dur=960 vel=81 -> bits=010110
+[Step 1336] decoded note=G4 dur=960 vel=81 -> bits=010010
+[Step 1337] decoded note=G4 dur=720 vel=82 -> bits=100011
+[Step 1338] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 1339] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=1340 prev_note を B3 に同期、reported_crc=FE
+  block_bits_len=120 actual_crc=FE
+  CRC OK
+[Step 1340] decoded note=B3 dur=961 vel=80 -> bits=000010
+[Step 1341] decoded note=C4 dur=480 vel=81 -> bits=100100
+[Step 1342] decoded note=D4 dur=960 vel=82 -> bits=101110
+[Step 1343] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Step 1344] decoded note=B3 dur=480 vel=80 -> bits=000100
+[Step 1345] decoded note=C4 dur=960 vel=81 -> bits=100110
+[Step 1346] decoded note=G4 dur=960 vel=80 -> bits=111110
+[Step 1347] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 1348] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 1349] decoded note=D4 dur=960 vel=80 -> bits=100110
+[Step 1350] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 1351] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1352] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1353] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 1354] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 1355] decoded note=E4 dur=960 vel=82 -> bits=100010
+[Step 1356] decoded note=F4 dur=720 vel=81 -> bits=101011
+[Step 1357] decoded note=G4 dur=960 vel=82 -> bits=101110
+[Step 1358] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 1359] decoded note=E4 dur=960 vel=82 -> bits=010110
+[Keyframe+SYNC READ] step=1360 prev_note を E4 に同期、reported_crc=18
+  block_bits_len=120 actual_crc=18
+  CRC OK
+[Step 1360] decoded note=E4 dur=721 vel=80 -> bits=011011
+[Step 1361] decoded note=F4 dur=720 vel=82 -> bits=101111
+[Step 1362] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Step 1363] decoded note=F4 dur=960 vel=80 -> bits=011010
+[Step 1364] decoded note=A4 dur=480 vel=80 -> bits=110000
+[Step 1365] decoded note=B4 dur=480 vel=80 -> bits=100100
+[Step 1366] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Step 1367] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 1368] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 1369] decoded note=E4 dur=720 vel=81 -> bits=101011
+[Step 1370] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 1371] decoded note=E4 dur=960 vel=82 -> bits=010110
+[Step 1372] decoded note=C4 dur=240 vel=80 -> bits=000101
+[Step 1373] decoded note=D4 dur=720 vel=81 -> bits=101011
+[Step 1374] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1375] decoded note=C4 dur=960 vel=80 -> bits=011010
+[Step 1376] decoded note=D4 dur=240 vel=82 -> bits=101101
+[Step 1377] decoded note=E4 dur=480 vel=81 -> bits=101000
+[Step 1378] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 1379] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Keyframe+SYNC READ] step=1380 prev_note を D4 に同期、reported_crc=C5
+  block_bits_len=120 actual_crc=C5
+  CRC OK
+[Step 1380] decoded note=D4 dur=241 vel=80 -> bits=000001
+[Step 1381] decoded note=E4 dur=960 vel=81 -> bits=101010
+[Step 1382] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1383] decoded note=C4 dur=960 vel=81 -> bits=010010
+[Step 1384] decoded note=G4 dur=720 vel=80 -> bits=111111
+[Step 1385] decoded note=A4 dur=480 vel=81 -> bits=101000
+[Step 1386] decoded note=A4 dur=960 vel=81 -> bits=011110
+[Step 1387] decoded note=A4 dur=960 vel=81 -> bits=011110
+[Step 1388] decoded note=A4 dur=960 vel=84 -> bits=111110
+[Step 1389] decoded note=B4 dur=960 vel=81 -> bits=101010
+[Step 1390] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Step 1391] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 1392] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 1393] decoded note=E4 dur=960 vel=81 -> bits=101010
+[Step 1394] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 1395] decoded note=A4 dur=960 vel=80 -> bits=010010
+[Step 1396] decoded note=A4 dur=720 vel=84 -> bits=111111
+[Step 1397] decoded note=B4 dur=480 vel=81 -> bits=101000
+[Step 1398] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Step 1399] decoded note=B4 dur=960 vel=80 -> bits=100110
+[Keyframe+SYNC READ] step=1400 prev_note を B4 に同期、reported_crc=0A
+  block_bits_len=120 actual_crc=0A
+  CRC OK
+[Step 1400] decoded note=B4 dur=481 vel=80 -> bits=100000
+[Step 1401] decoded note=B4 dur=720 vel=83 -> bits=101111
+[Step 1402] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 1403] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 1404] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 1405] decoded note=D4 dur=240 vel=80 -> bits=100101
+[Step 1406] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 1407] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 1408] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 1409] decoded note=E4 dur=240 vel=81 -> bits=101001
+[Step 1410] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 1411] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 1412] decoded note=B3 dur=480 vel=80 -> bits=000000
+[Step 1413] decoded note=C4 dur=480 vel=80 -> bits=100000
+[Step 1414] decoded note=C4 dur=960 vel=81 -> bits=011110
+[Step 1415] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 1416] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1417] decoded note=A3 dur=720 vel=83 -> bits=100011
+[Step 1418] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 1419] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=1420 prev_note を A3 に同期、reported_crc=6D
+  block_bits_len=120 actual_crc=6D
+  CRC OK
+[Step 1420] decoded note=A3 dur=961 vel=80 -> bits=000010
+[Step 1421] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 1422] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1423] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1424] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1425] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 1426] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1427] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1428] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1429] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 1430] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 1431] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 1432] decoded note=D4 dur=960 vel=82 -> bits=101110
+[Step 1433] decoded note=D4 dur=960 vel=82 -> bits=100010
+[Step 1434] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 1435] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 1436] decoded note=A3 dur=240 vel=80 -> bits=000101
+[Step 1437] decoded note=B3 dur=960 vel=82 -> bits=101010
+[Step 1438] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1439] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Keyframe+SYNC READ] step=1440 prev_note を G3 に同期、reported_crc=87
+  block_bits_len=120 actual_crc=87
+  CRC OK
+[Step 1440] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 1441] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 1442] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1443] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1444] decoded note=A3 dur=480 vel=81 -> bits=010100
+[Step 1445] decoded note=B3 dur=720 vel=81 -> bits=100111
+[Step 1446] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 1447] decoded note=B3 dur=960 vel=82 -> bits=010110
+[Step 1448] decoded note=D4 dur=240 vel=80 -> bits=101101
+[Step 1449] decoded note=E4 dur=960 vel=80 -> bits=100110
+[Step 1450] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1451] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1452] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1453] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 1454] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 1455] decoded note=A3 dur=960 vel=82 -> bits=010010
+[Step 1456] decoded note=E4 dur=720 vel=80 -> bits=111111
+[Step 1457] decoded note=F4 dur=720 vel=80 -> bits=100111
+[Step 1458] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Step 1459] decoded note=F4 dur=960 vel=80 -> bits=011010
+[Keyframe+SYNC READ] step=1460 prev_note を E4 に同期、reported_crc=F2
+  block_bits_len=120 actual_crc=F2
+  CRC OK
+[Step 1460] decoded note=E4 dur=481 vel=80 -> bits=001100
+[Step 1461] decoded note=E4 dur=480 vel=82 -> bits=100000
+[Step 1462] decoded note=E4 dur=960 vel=81 -> bits=011110
+[Step 1463] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1464] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 1465] decoded note=B3 dur=240 vel=81 -> bits=100101
+[Step 1466] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 1467] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 1468] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1469] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 1470] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1471] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1472] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1473] decoded note=A3 dur=240 vel=83 -> bits=100001
+[Step 1474] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 1475] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1476] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1477] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 1478] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1479] decoded note=A3 dur=960 vel=82 -> bits=011010
+[Keyframe+SYNC READ] step=1480 prev_note を C4 に同期、reported_crc=C0
+  block_bits_len=120 actual_crc=C0
+  CRC OK
+[Step 1480] decoded note=C4 dur=241 vel=80 -> bits=110001
+[Step 1481] decoded note=D4 dur=960 vel=82 -> bits=101110
+[Step 1482] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 1483] decoded note=E4 dur=960 vel=80 -> bits=011010
+[Step 1484] decoded note=C4 dur=480 vel=80 -> bits=000100
+[Step 1485] decoded note=C4 dur=720 vel=82 -> bits=100011
+[Step 1486] decoded note=G4 dur=960 vel=80 -> bits=111110
+[Step 1487] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 1488] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 1489] decoded note=D4 dur=240 vel=80 -> bits=100101
+[Step 1490] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 1491] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 1492] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 1493] decoded note=E4 dur=720 vel=80 -> bits=100111
+[Step 1494] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 1495] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 1496] decoded note=D4 dur=480 vel=80 -> bits=000000
+[Step 1497] decoded note=D4 dur=480 vel=82 -> bits=100000
+[Step 1498] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 1499] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=1500 prev_note を A3 に同期、reported_crc=F1
+  block_bits_len=120 actual_crc=F1
+  CRC OK
+[Step 1500] decoded note=A3 dur=961 vel=80 -> bits=000010
+[Step 1501] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 1502] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 1503] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 1504] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1505] decoded note=A3 dur=720 vel=83 -> bits=100011
+[Step 1506] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1507] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1508] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1509] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 1510] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1511] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1512] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1513] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 1514] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 1515] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 1516] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 1517] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 1518] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1519] decoded note=A3 dur=960 vel=81 -> bits=010110
+[Keyframe+SYNC READ] step=1520 prev_note を D4 に同期、reported_crc=F9
+  block_bits_len=120 actual_crc=F9
+  CRC OK
+[Step 1520] decoded note=D4 dur=241 vel=80 -> bits=111001
+[Step 1521] decoded note=E4 dur=480 vel=82 -> bits=101100
+[Step 1522] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 1523] decoded note=A4 dur=960 vel=81 -> bits=010110
+[Step 1524] decoded note=G4 dur=960 vel=81 -> bits=010010
+[Step 1525] decoded note=G4 dur=720 vel=82 -> bits=100011
+[Step 1526] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 1527] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 1528] decoded note=B3 dur=960 vel=80 -> bits=000010
+[Step 1529] decoded note=C4 dur=480 vel=81 -> bits=100100
+[Step 1530] decoded note=D4 dur=960 vel=82 -> bits=101110
+[Step 1531] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 1532] decoded note=F4 dur=960 vel=81 -> bits=110110
+[Step 1533] decoded note=G4 dur=720 vel=81 -> bits=101011
+[Step 1534] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 1535] decoded note=G4 dur=960 vel=80 -> bits=011010
+[Step 1536] decoded note=F4 dur=480 vel=80 -> bits=001100
+[Step 1537] decoded note=F4 dur=480 vel=82 -> bits=100000
+[Step 1538] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Step 1539] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=1540 prev_note を B3 に同期、reported_crc=7F
+  block_bits_len=120 actual_crc=7F
+  CRC OK
+[Step 1540] decoded note=B3 dur=241 vel=80 -> bits=000001
+[Step 1541] decoded note=C4 dur=240 vel=81 -> bits=100101
+[Step 1542] decoded note=G4 dur=960 vel=80 -> bits=111110
+[Step 1543] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 1544] decoded note=C4 dur=480 vel=80 -> bits=000000
+[Step 1545] decoded note=C4 dur=480 vel=82 -> bits=100000
+[Step 1546] decoded note=C4 dur=960 vel=81 -> bits=011110
+[Step 1547] decoded note=B3 dur=960 vel=82 -> bits=010110
+[Step 1548] decoded note=D4 dur=480 vel=81 -> bits=110000
+[Step 1549] decoded note=D4 dur=480 vel=82 -> bits=100000
+[Step 1550] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 1551] decoded note=D4 dur=960 vel=82 -> bits=010110
+[Step 1552] decoded note=B3 dur=480 vel=81 -> bits=001000
+[Step 1553] decoded note=D4 dur=240 vel=80 -> bits=101101
+[Step 1554] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 1555] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1556] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 1557] decoded note=B3 dur=960 vel=82 -> bits=101010
+[Step 1558] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1559] decoded note=B3 dur=960 vel=81 -> bits=100110
+[Keyframe+SYNC READ] step=1560 prev_note を B3 に同期、reported_crc=78
+  block_bits_len=120 actual_crc=78
+  CRC OK
+[Step 1560] decoded note=B3 dur=961 vel=81 -> bits=011010
+[Step 1561] decoded note=D4 dur=240 vel=80 -> bits=101101
+[Step 1562] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 1563] decoded note=G4 dur=960 vel=82 -> bits=010110
+[Step 1564] decoded note=G4 dur=960 vel=83 -> bits=111110
+[Step 1565] decoded note=A4 dur=480 vel=80 -> bits=100100
+[Step 1566] decoded note=A4 dur=960 vel=84 -> bits=111110
+[Step 1567] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 1568] decoded note=D4 dur=480 vel=80 -> bits=000000
+[Step 1569] decoded note=D4 dur=480 vel=82 -> bits=100000
+[Step 1570] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 1571] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 1572] decoded note=C4 dur=480 vel=81 -> bits=011100
+[Step 1573] decoded note=D4 dur=240 vel=81 -> bits=101001
+[Step 1574] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 1575] decoded note=A4 dur=960 vel=82 -> bits=100010
+[Step 1576] decoded note=A4 dur=720 vel=84 -> bits=111111
+[Step 1577] decoded note=B4 dur=960 vel=81 -> bits=101010
+[Step 1578] decoded note=C5 dur=960 vel=83 -> bits=111110
+[Step 1579] decoded note=A4 dur=960 vel=81 -> bits=001110
+[Keyframe+SYNC READ] step=1580 prev_note を E4 に同期、reported_crc=12
+  block_bits_len=120 actual_crc=12
+  CRC OK
+[Step 1580] decoded note=E4 dur=241 vel=80 -> bits=000001
+[Step 1581] decoded note=F4 dur=960 vel=81 -> bits=101010
+[Step 1582] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 1583] decoded note=D4 dur=960 vel=82 -> bits=010110
+[Step 1584] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 1585] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 1586] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 1587] decoded note=C4 dur=960 vel=81 -> bits=011110
+[Step 1588] decoded note=A3 dur=720 vel=81 -> bits=001011
+[Step 1589] decoded note=B3 dur=720 vel=82 -> bits=101011
+[Step 1590] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 1591] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1592] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1593] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 1594] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 1595] decoded note=B3 dur=960 vel=80 -> bits=010110
+[Step 1596] decoded note=B3 dur=480 vel=82 -> bits=011100
+[Step 1597] decoded note=D4 dur=480 vel=80 -> bits=101100
+[Step 1598] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1599] decoded note=B3 dur=960 vel=81 -> bits=010010
+[Keyframe+SYNC READ] step=1600 prev_note を F4 に同期、reported_crc=DB
+  block_bits_len=120 actual_crc=DB
+  CRC OK
+[Step 1600] decoded note=F4 dur=481 vel=80 -> bits=111000
+[Step 1601] decoded note=F4 dur=960 vel=82 -> bits=100010
+[Step 1602] decoded note=G4 dur=960 vel=82 -> bits=101110
+[Step 1603] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 1604] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 1605] decoded note=C4 dur=960 vel=82 -> bits=100010
+[Step 1606] decoded note=G4 dur=960 vel=80 -> bits=111110
+[Step 1607] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 1608] decoded note=C4 dur=960 vel=80 -> bits=000010
+[Step 1609] decoded note=C4 dur=960 vel=82 -> bits=100010
+[Step 1610] decoded note=C4 dur=960 vel=81 -> bits=011110
+[Step 1611] decoded note=C4 dur=960 vel=80 -> bits=011010
+[Step 1612] decoded note=E4 dur=480 vel=80 -> bits=110000
+[Step 1613] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 1614] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 1615] decoded note=F4 dur=960 vel=80 -> bits=100110
+[Step 1616] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 1617] decoded note=D4 dur=480 vel=81 -> bits=101000
+[Step 1618] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1619] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=1620 prev_note を G3 に同期、reported_crc=3F
+  block_bits_len=120 actual_crc=3F
+  CRC OK
+[Step 1620] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 1621] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 1622] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 1623] decoded note=D4 dur=960 vel=80 -> bits=100110
+[Step 1624] decoded note=D4 dur=240 vel=80 -> bits=011001
+[Step 1625] decoded note=E4 dur=240 vel=81 -> bits=101001
+[Step 1626] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1627] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 1628] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 1629] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 1630] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 1631] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 1632] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 1633] decoded note=E4 dur=240 vel=80 -> bits=100101
+[Step 1634] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 1635] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 1636] decoded note=D4 dur=960 vel=80 -> bits=000010
+[Step 1637] decoded note=D4 dur=960 vel=82 -> bits=100010
+[Step 1638] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1639] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=1640 prev_note を G3 に同期、reported_crc=E2
+  block_bits_len=120 actual_crc=E2
+  CRC OK
+[Step 1640] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 1641] decoded note=A3 dur=240 vel=83 -> bits=100001
+[Step 1642] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 1643] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1644] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1645] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 1646] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1647] decoded note=A3 dur=960 vel=81 -> bits=010110
+[Step 1648] decoded note=G3 dur=960 vel=82 -> bits=001010
+[Step 1649] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 1650] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 1651] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1652] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1653] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 1654] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1655] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1656] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1657] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 1658] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 1659] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=1660 prev_note を G3 に同期、reported_crc=53
+  block_bits_len=120 actual_crc=53
+  CRC OK
+[Step 1660] decoded note=G3 dur=961 vel=80 -> bits=000010
+[Step 1661] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 1662] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1663] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1664] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1665] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 1666] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 1667] decoded note=D4 dur=960 vel=82 -> bits=010110
+[Step 1668] decoded note=D4 dur=720 vel=80 -> bits=011011
+[Step 1669] decoded note=E4 dur=720 vel=82 -> bits=101111
+[Step 1670] decoded note=E4 dur=960 vel=81 -> bits=011110
+[Step 1671] decoded note=F4 dur=960 vel=80 -> bits=100110
+[Step 1672] decoded note=F4 dur=960 vel=80 -> bits=011010
+[Step 1673] decoded note=G4 dur=960 vel=80 -> bits=100110
+[Step 1674] decoded note=G4 dur=960 vel=83 -> bits=111110
+[Step 1675] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 1676] decoded note=A4 dur=480 vel=80 -> bits=100100
+[Step 1677] decoded note=B4 dur=720 vel=82 -> bits=101111
+[Step 1678] decoded note=B4 dur=960 vel=83 -> bits=101110
+[Step 1679] decoded note=A4 dur=960 vel=80 -> bits=010010
+[Keyframe+SYNC READ] step=1680 prev_note を A4 に同期、reported_crc=76
+  block_bits_len=120 actual_crc=76
+  CRC OK
+[Step 1680] decoded note=A4 dur=481 vel=84 -> bits=111100
+[Step 1681] decoded note=B4 dur=960 vel=80 -> bits=100110
+[Step 1682] decoded note=B4 dur=960 vel=83 -> bits=101110
+[Step 1683] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 1684] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 1685] decoded note=E4 dur=960 vel=81 -> bits=101010
+[Step 1686] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 1687] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 1688] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 1689] decoded note=D4 dur=960 vel=82 -> bits=100010
+[Step 1690] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 1691] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1692] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 1693] decoded note=B3 dur=240 vel=80 -> bits=100001
+[Step 1694] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1695] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1696] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1697] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 1698] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 1699] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=1700 prev_note を G3 に同期、reported_crc=E7
+  block_bits_len=120 actual_crc=E7
+  CRC OK
+[Step 1700] decoded note=G3 dur=481 vel=80 -> bits=000000
+[Step 1701] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 1702] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1703] decoded note=A3 dur=960 vel=81 -> bits=010110
+[Step 1704] decoded note=A3 dur=480 vel=80 -> bits=010000
+[Step 1705] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 1706] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 1707] decoded note=C4 dur=960 vel=80 -> bits=100010
+[Step 1708] decoded note=D4 dur=960 vel=81 -> bits=101010
+[Step 1709] decoded note=D4 dur=960 vel=82 -> bits=100010
+[Step 1710] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 1711] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1712] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1713] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 1714] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 1715] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1716] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1717] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 1718] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 1719] decoded note=D4 dur=960 vel=82 -> bits=010110
+[Keyframe+SYNC READ] step=1720 prev_note を D4 に同期、reported_crc=BA
+  block_bits_len=120 actual_crc=BA
+  CRC OK
+[Step 1720] decoded note=D4 dur=481 vel=81 -> bits=011100
+[Step 1721] decoded note=E4 dur=480 vel=82 -> bits=101100
+[Step 1722] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1723] decoded note=C4 dur=960 vel=81 -> bits=010010
+[Step 1724] decoded note=G4 dur=240 vel=80 -> bits=111101
+[Step 1725] decoded note=G4 dur=720 vel=82 -> bits=100011
+[Step 1726] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 1727] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 1728] decoded note=C4 dur=960 vel=80 -> bits=000010
+[Step 1729] decoded note=D4 dur=480 vel=80 -> bits=100100
+[Step 1730] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 1731] decoded note=D4 dur=960 vel=82 -> bits=010110
+[Step 1732] decoded note=C4 dur=240 vel=80 -> bits=001101
+[Step 1733] decoded note=D4 dur=480 vel=81 -> bits=101000
+[Step 1734] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1735] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 1736] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1737] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 1738] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1739] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Keyframe+SYNC READ] step=1740 prev_note を G3 に同期、reported_crc=8B
+  block_bits_len=120 actual_crc=8B
+  CRC OK
+[Step 1740] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 1741] decoded note=A3 dur=720 vel=84 -> bits=100111
+[Step 1742] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 1743] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1744] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 1745] decoded note=B3 dur=240 vel=80 -> bits=100001
+[Step 1746] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1747] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1748] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1749] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 1750] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1751] decoded note=A3 dur=960 vel=82 -> bits=011010
+[Step 1752] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 1753] decoded note=A3 dur=720 vel=84 -> bits=100111
+[Step 1754] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1755] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1756] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1757] decoded note=B3 dur=240 vel=81 -> bits=101101
+[Step 1758] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 1759] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Keyframe+SYNC READ] step=1760 prev_note を G3 に同期、reported_crc=F3
+  block_bits_len=120 actual_crc=F3
+  CRC OK
+[Step 1760] decoded note=G3 dur=481 vel=80 -> bits=000000
+[Step 1761] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 1762] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 1763] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1764] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1765] decoded note=A3 dur=720 vel=83 -> bits=100011
+[Step 1766] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 1767] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1768] decoded note=A3 dur=960 vel=80 -> bits=000010
+[Step 1769] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 1770] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1771] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1772] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1773] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 1774] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1775] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1776] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1777] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 1778] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 1779] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=1780 prev_note を G3 に同期、reported_crc=5B
+  block_bits_len=120 actual_crc=5B
+  CRC OK
+[Step 1780] decoded note=G3 dur=481 vel=80 -> bits=000000
+[Step 1781] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 1782] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1783] decoded note=A3 dur=960 vel=81 -> bits=010110
+[Step 1784] decoded note=G3 dur=240 vel=81 -> bits=000101
+[Step 1785] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 1786] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1787] decoded note=A3 dur=960 vel=80 -> bits=010010
+[Step 1788] decoded note=D4 dur=480 vel=80 -> bits=111000
+[Step 1789] decoded note=E4 dur=240 vel=80 -> bits=100101
+[Step 1790] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 1791] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Step 1792] decoded note=E4 dur=240 vel=82 -> bits=010101
+[Step 1793] decoded note=E4 dur=720 vel=82 -> bits=100011
+[Step 1794] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1795] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1796] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1797] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 1798] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 1799] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Keyframe+SYNC READ] step=1800 prev_note を C4 に同期、reported_crc=A5
+  block_bits_len=120 actual_crc=A5
+  CRC OK
+[Step 1800] decoded note=C4 dur=721 vel=80 -> bits=011011
+[Step 1801] decoded note=D4 dur=720 vel=82 -> bits=101111
+[Step 1802] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 1803] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Step 1804] decoded note=F4 dur=480 vel=80 -> bits=110000
+[Step 1805] decoded note=G4 dur=480 vel=80 -> bits=100100
+[Step 1806] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 1807] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 1808] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 1809] decoded note=C4 dur=720 vel=82 -> bits=100011
+[Step 1810] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 1811] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1812] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 1813] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 1814] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1815] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1816] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1817] decoded note=B3 dur=480 vel=81 -> bits=101100
+[Step 1818] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 1819] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=1820 prev_note を G3 に同期、reported_crc=01
+  block_bits_len=120 actual_crc=01
+  CRC OK
+[Step 1820] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 1821] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 1822] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1823] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1824] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1825] decoded note=A3 dur=240 vel=84 -> bits=100101
+[Step 1826] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 1827] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1828] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 1829] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 1830] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 1831] decoded note=C4 dur=960 vel=80 -> bits=011010
+[Step 1832] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1833] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 1834] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1835] decoded note=A3 dur=960 vel=81 -> bits=011010
+[Step 1836] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 1837] decoded note=A3 dur=240 vel=84 -> bits=100101
+[Step 1838] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 1839] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Keyframe+SYNC READ] step=1840 prev_note を G3 に同期、reported_crc=04
+  block_bits_len=120 actual_crc=04
+  CRC OK
+[Step 1840] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 1841] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 1842] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1843] decoded note=A3 dur=960 vel=82 -> bits=011010
+[Step 1844] decoded note=B3 dur=480 vel=83 -> bits=101100
+[Step 1845] decoded note=C4 dur=480 vel=82 -> bits=101000
+[Step 1846] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 1847] decoded note=A3 dur=960 vel=82 -> bits=010010
+[Step 1848] decoded note=D4 dur=240 vel=80 -> bits=111001
+[Step 1849] decoded note=D4 dur=720 vel=82 -> bits=100011
+[Step 1850] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 1851] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 1852] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 1853] decoded note=D4 dur=960 vel=82 -> bits=100010
+[Step 1854] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 1855] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 1856] decoded note=D4 dur=960 vel=80 -> bits=000010
+[Step 1857] decoded note=D4 dur=960 vel=82 -> bits=100010
+[Step 1858] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 1859] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Keyframe+SYNC READ] step=1860 prev_note を A3 に同期、reported_crc=2C
+  block_bits_len=120 actual_crc=2C
+  CRC OK
+[Step 1860] decoded note=A3 dur=241 vel=80 -> bits=000101
+[Step 1861] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 1862] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 1863] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1864] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1865] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 1866] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 1867] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1868] decoded note=A3 dur=960 vel=80 -> bits=000010
+[Step 1869] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 1870] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1871] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1872] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 1873] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 1874] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1875] decoded note=A3 dur=960 vel=81 -> bits=010110
+[Step 1876] decoded note=D4 dur=240 vel=80 -> bits=111001
+[Step 1877] decoded note=E4 dur=480 vel=82 -> bits=101100
+[Step 1878] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 1879] decoded note=A4 dur=960 vel=81 -> bits=010110
+[Keyframe+SYNC READ] step=1880 prev_note を G4 に同期、reported_crc=DE
+  block_bits_len=120 actual_crc=DE
+  CRC OK
+[Step 1880] decoded note=G4 dur=961 vel=81 -> bits=010010
+[Step 1881] decoded note=G4 dur=720 vel=82 -> bits=100011
+[Step 1882] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 1883] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 1884] decoded note=B3 dur=240 vel=80 -> bits=000001
+[Step 1885] decoded note=C4 dur=720 vel=82 -> bits=101011
+[Step 1886] decoded note=D4 dur=960 vel=82 -> bits=101110
+[Step 1887] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1888] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1889] decoded note=A3 dur=240 vel=83 -> bits=100001
+[Step 1890] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 1891] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1892] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1893] decoded note=B3 dur=480 vel=80 -> bits=101000
+[Step 1894] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 1895] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1896] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1897] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 1898] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 1899] decoded note=C4 dur=960 vel=81 -> bits=011110
+[Keyframe+SYNC READ] step=1900 prev_note を B3 に同期、reported_crc=22
+  block_bits_len=120 actual_crc=22
+  CRC OK
+[Step 1900] decoded note=B3 dur=481 vel=82 -> bits=010100
+[Step 1901] decoded note=C4 dur=720 vel=81 -> bits=100111
+[Step 1902] decoded note=G4 dur=960 vel=80 -> bits=111110
+[Step 1903] decoded note=F4 dur=960 vel=82 -> bits=010110
+[Step 1904] decoded note=G4 dur=240 vel=82 -> bits=101101
+[Step 1905] decoded note=A4 dur=960 vel=80 -> bits=100110
+[Step 1906] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 1907] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 1908] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 1909] decoded note=D4 dur=960 vel=80 -> bits=100110
+[Step 1910] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 1911] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1912] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1913] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 1914] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 1915] decoded note=E4 dur=960 vel=80 -> bits=011010
+[Step 1916] decoded note=F4 dur=480 vel=81 -> bits=101000
+[Step 1917] decoded note=G4 dur=960 vel=81 -> bits=101010
+[Step 1918] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 1919] decoded note=F4 dur=960 vel=82 -> bits=010110
+[Keyframe+SYNC READ] step=1920 prev_note を D4 に同期、reported_crc=05
+  block_bits_len=120 actual_crc=05
+  CRC OK
+[Step 1920] decoded note=D4 dur=481 vel=81 -> bits=001000
+[Step 1921] decoded note=E4 dur=960 vel=81 -> bits=101010
+[Step 1922] decoded note=E4 dur=960 vel=81 -> bits=011110
+[Step 1923] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1924] decoded note=A3 dur=960 vel=80 -> bits=000010
+[Step 1925] decoded note=B3 dur=480 vel=81 -> bits=100100
+[Step 1926] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 1927] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Step 1928] decoded note=D4 dur=480 vel=81 -> bits=011100
+[Step 1929] decoded note=D4 dur=960 vel=82 -> bits=100010
+[Step 1930] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 1931] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1932] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1933] decoded note=A3 dur=960 vel=84 -> bits=100110
+[Step 1934] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1935] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1936] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1937] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 1938] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 1939] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=1940 prev_note を A3 に同期、reported_crc=89
+  block_bits_len=120 actual_crc=89
+  CRC OK
+[Step 1940] decoded note=A3 dur=241 vel=80 -> bits=000001
+[Step 1941] decoded note=B3 dur=480 vel=81 -> bits=100100
+[Step 1942] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 1943] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 1944] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1945] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 1946] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1947] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1948] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1949] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 1950] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 1951] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 1952] decoded note=C4 dur=960 vel=80 -> bits=100010
+[Step 1953] decoded note=D4 dur=960 vel=82 -> bits=101110
+[Step 1954] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 1955] decoded note=E4 dur=960 vel=82 -> bits=100010
+[Step 1956] decoded note=F4 dur=960 vel=81 -> bits=101010
+[Step 1957] decoded note=F4 dur=720 vel=82 -> bits=100011
+[Step 1958] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Step 1959] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=1960 prev_note を B3 に同期、reported_crc=3E
+  block_bits_len=120 actual_crc=3E
+  CRC OK
+[Step 1960] decoded note=B3 dur=241 vel=80 -> bits=000001
+[Step 1961] decoded note=C4 dur=960 vel=81 -> bits=100110
+[Step 1962] decoded note=C4 dur=960 vel=81 -> bits=011110
+[Step 1963] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 1964] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1965] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 1966] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 1967] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1968] decoded note=A3 dur=480 vel=80 -> bits=000000
+[Step 1969] decoded note=B3 dur=480 vel=80 -> bits=100000
+[Step 1970] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 1971] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 1972] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 1973] decoded note=A3 dur=720 vel=83 -> bits=100011
+[Step 1974] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 1975] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 1976] decoded note=A3 dur=960 vel=80 -> bits=000010
+[Step 1977] decoded note=B3 dur=720 vel=80 -> bits=100011
+[Step 1978] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 1979] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Keyframe+SYNC READ] step=1980 prev_note を G3 に同期、reported_crc=1E
+  block_bits_len=120 actual_crc=1E
+  CRC OK
+[Step 1980] decoded note=G3 dur=961 vel=80 -> bits=000010
+[Step 1981] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 1982] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1983] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1984] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1985] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 1986] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 1987] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 1988] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 1989] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 1990] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 1991] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1992] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1993] decoded note=A3 dur=240 vel=83 -> bits=100001
+[Step 1994] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1995] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 1996] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 1997] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 1998] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 1999] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Keyframe+SYNC READ] step=2000 prev_note を G3 に同期、reported_crc=BC
+  block_bits_len=120 actual_crc=BC
+  CRC OK
+[Step 2000] decoded note=G3 dur=961 vel=80 -> bits=000010
+[Step 2001] decoded note=A3 dur=720 vel=83 -> bits=100011
+[Step 2002] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 2003] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 2004] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2005] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 2006] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 2007] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 2008] decoded note=C4 dur=720 vel=80 -> bits=011011
+[Step 2009] decoded note=D4 dur=720 vel=82 -> bits=101111
+[Step 2010] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 2011] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 2012] decoded note=D4 dur=960 vel=82 -> bits=101110
+[Step 2013] decoded note=E4 dur=240 vel=82 -> bits=101101
+[Step 2014] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 2015] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 2016] decoded note=B3 dur=960 vel=80 -> bits=000010
+[Step 2017] decoded note=C4 dur=480 vel=80 -> bits=100000
+[Step 2018] decoded note=D4 dur=960 vel=82 -> bits=101110
+[Step 2019] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=2020 prev_note を G3 に同期、reported_crc=A1
+  block_bits_len=120 actual_crc=A1
+  CRC OK
+[Step 2020] decoded note=G3 dur=481 vel=80 -> bits=000000
+[Step 2021] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 2022] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 2023] decoded note=B3 dur=960 vel=80 -> bits=100010
+[Step 2024] decoded note=G3 dur=720 vel=81 -> bits=000111
+[Step 2025] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 2026] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 2027] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 2028] decoded note=C4 dur=720 vel=80 -> bits=011011
+[Step 2029] decoded note=D4 dur=720 vel=82 -> bits=101111
+[Step 2030] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 2031] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 2032] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2033] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 2034] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 2035] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 2036] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2037] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 2038] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 2039] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=2040 prev_note を A3 に同期、reported_crc=7D
+  block_bits_len=120 actual_crc=7D
+  CRC OK
+[Step 2040] decoded note=A3 dur=241 vel=80 -> bits=000001
+[Step 2041] decoded note=B3 dur=960 vel=82 -> bits=101010
+[Step 2042] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 2043] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 2044] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2045] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 2046] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 2047] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 2048] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2049] decoded note=B3 dur=720 vel=81 -> bits=101111
+[Step 2050] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 2051] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 2052] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2053] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 2054] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 2055] decoded note=B3 dur=960 vel=82 -> bits=010110
+[Step 2056] decoded note=D4 dur=480 vel=81 -> bits=110000
+[Step 2057] decoded note=D4 dur=480 vel=82 -> bits=100000
+[Step 2058] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 2059] decoded note=D4 dur=960 vel=82 -> bits=010110
+[Keyframe+SYNC READ] step=2060 prev_note を A4 に同期、reported_crc=61
+  block_bits_len=120 actual_crc=61
+  CRC OK
+[Step 2060] decoded note=A4 dur=721 vel=80 -> bits=111111
+[Step 2061] decoded note=B4 dur=240 vel=82 -> bits=101101
+[Step 2062] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Step 2063] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 2064] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 2065] decoded note=E4 dur=240 vel=80 -> bits=100101
+[Step 2066] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 2067] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 2068] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 2069] decoded note=E4 dur=240 vel=81 -> bits=101001
+[Step 2070] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 2071] decoded note=E4 dur=960 vel=81 -> bits=010010
+[Step 2072] decoded note=A4 dur=720 vel=80 -> bits=111011
+[Step 2073] decoded note=B4 dur=240 vel=80 -> bits=100101
+[Step 2074] decoded note=B4 dur=960 vel=83 -> bits=101110
+[Step 2075] decoded note=A4 dur=960 vel=81 -> bits=010110
+[Step 2076] decoded note=A4 dur=720 vel=80 -> bits=011011
+[Step 2077] decoded note=B4 dur=720 vel=82 -> bits=101111
+[Step 2078] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Step 2079] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=2080 prev_note を D4 に同期、reported_crc=10
+  block_bits_len=120 actual_crc=10
+  CRC OK
+[Step 2080] decoded note=D4 dur=961 vel=80 -> bits=000010
+[Step 2081] decoded note=E4 dur=480 vel=80 -> bits=100100
+[Step 2082] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 2083] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Step 2084] decoded note=D4 dur=480 vel=80 -> bits=000100
+[Step 2085] decoded note=E4 dur=480 vel=81 -> bits=101000
+[Step 2086] decoded note=E4 dur=960 vel=81 -> bits=011110
+[Step 2087] decoded note=E4 dur=960 vel=82 -> bits=100010
+[Step 2088] decoded note=F4 dur=960 vel=80 -> bits=100110
+[Step 2089] decoded note=G4 dur=240 vel=80 -> bits=100101
+[Step 2090] decoded note=A4 dur=960 vel=82 -> bits=101110
+[Step 2091] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 2092] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 2093] decoded note=E4 dur=240 vel=80 -> bits=100101
+[Step 2094] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 2095] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 2096] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 2097] decoded note=E4 dur=240 vel=81 -> bits=101001
+[Step 2098] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 2099] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=2100 prev_note を B3 に同期、reported_crc=FF
+  block_bits_len=120 actual_crc=FF
+  CRC OK
+[Step 2100] decoded note=B3 dur=241 vel=80 -> bits=000001
+[Step 2101] decoded note=C4 dur=720 vel=82 -> bits=101011
+[Step 2102] decoded note=G4 dur=960 vel=80 -> bits=111110
+[Step 2103] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 2104] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 2105] decoded note=D4 dur=960 vel=81 -> bits=101010
+[Step 2106] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 2107] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 2108] decoded note=A3 dur=960 vel=80 -> bits=000010
+[Step 2109] decoded note=B3 dur=960 vel=80 -> bits=100010
+[Step 2110] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 2111] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 2112] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2113] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 2114] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 2115] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 2116] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2117] decoded note=A3 dur=240 vel=83 -> bits=100001
+[Step 2118] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 2119] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Keyframe+SYNC READ] step=2120 prev_note を G3 に同期、reported_crc=55
+  block_bits_len=120 actual_crc=55
+  CRC OK
+[Step 2120] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 2121] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 2122] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 2123] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 2124] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2125] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 2126] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 2127] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 2128] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2129] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 2130] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 2131] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 2132] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2133] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 2134] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 2135] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 2136] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2137] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 2138] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 2139] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=2140 prev_note を G3 に同期、reported_crc=F1
+  block_bits_len=120 actual_crc=F1
+  CRC OK
+[Step 2140] decoded note=G3 dur=481 vel=80 -> bits=000000
+[Step 2141] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 2142] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 2143] decoded note=A3 dur=960 vel=82 -> bits=011010
+[Step 2144] decoded note=A3 dur=480 vel=81 -> bits=010100
+[Step 2145] decoded note=B3 dur=720 vel=83 -> bits=101111
+[Step 2146] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 2147] decoded note=C4 dur=960 vel=80 -> bits=011010
+[Step 2148] decoded note=E4 dur=960 vel=80 -> bits=110010
+[Step 2149] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 2150] decoded note=C5 dur=960 vel=80 -> bits=111110
+[Step 2151] decoded note=B4 dur=960 vel=83 -> bits=100110
+[Step 2152] decoded note=F4 dur=240 vel=80 -> bits=000001
+[Step 2153] decoded note=G4 dur=480 vel=80 -> bits=100100
+[Step 2154] decoded note=G4 dur=960 vel=83 -> bits=111110
+[Step 2155] decoded note=F4 dur=960 vel=82 -> bits=010110
+[Step 2156] decoded note=C5 dur=960 vel=80 -> bits=111110
+[Step 2157] decoded note=C5 dur=480 vel=80 -> bits=101100
+[Step 2158] decoded note=C5 dur=960 vel=84 -> bits=111110
+[Step 2159] decoded note=A4 dur=960 vel=81 -> bits=001110
+[Keyframe+SYNC READ] step=2160 prev_note を E4 に同期、reported_crc=A9
+  block_bits_len=120 actual_crc=A9
+  CRC OK
+[Step 2160] decoded note=E4 dur=241 vel=80 -> bits=000001
+[Step 2161] decoded note=F4 dur=720 vel=81 -> bits=101011
+[Step 2162] decoded note=G4 dur=960 vel=82 -> bits=101110
+[Step 2163] decoded note=G4 dur=960 vel=80 -> bits=011010
+[Step 2164] decoded note=B4 dur=720 vel=80 -> bits=110011
+[Step 2165] decoded note=B4 dur=240 vel=81 -> bits=100101
+[Step 2166] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Step 2167] decoded note=G4 dur=960 vel=82 -> bits=010110
+[Step 2168] decoded note=E4 dur=240 vel=81 -> bits=001001
+[Step 2169] decoded note=E4 dur=240 vel=82 -> bits=100001
+[Step 2170] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 2171] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 2172] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 2173] decoded note=E4 dur=720 vel=81 -> bits=101011
+[Step 2174] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 2175] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 2176] decoded note=D4 dur=480 vel=80 -> bits=000000
+[Step 2177] decoded note=D4 dur=480 vel=82 -> bits=100000
+[Step 2178] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 2179] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Keyframe+SYNC READ] step=2180 prev_note を D4 に同期、reported_crc=2F
+  block_bits_len=120 actual_crc=2F
+  CRC OK
+[Step 2180] decoded note=D4 dur=241 vel=80 -> bits=011001
+[Step 2181] decoded note=E4 dur=720 vel=81 -> bits=101011
+[Step 2182] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 2183] decoded note=G4 dur=960 vel=80 -> bits=100110
+[Step 2184] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 2185] decoded note=D4 dur=720 vel=82 -> bits=100011
+[Step 2186] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 2187] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 2188] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Step 2189] decoded note=D4 dur=240 vel=82 -> bits=100001
+[Step 2190] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 2191] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 2192] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2193] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 2194] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 2195] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 2196] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 2197] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 2198] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 2199] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Keyframe+SYNC READ] step=2200 prev_note を G3 に同期、reported_crc=AE
+  block_bits_len=120 actual_crc=AE
+  CRC OK
+[Step 2200] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 2201] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 2202] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 2203] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 2204] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2205] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 2206] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 2207] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 2208] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2209] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 2210] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 2211] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 2212] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 2213] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 2214] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 2215] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 2216] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 2217] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 2218] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 2219] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Keyframe+SYNC READ] step=2220 prev_note を G3 に同期、reported_crc=51
+  block_bits_len=120 actual_crc=51
+  CRC OK
+[Step 2220] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 2221] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 2222] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 2223] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 2224] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 2225] decoded note=B3 dur=720 vel=82 -> bits=101011
+[Step 2226] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 2227] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Step 2228] decoded note=F4 dur=720 vel=80 -> bits=110011
+[Step 2229] decoded note=G4 dur=240 vel=80 -> bits=100101
+[Step 2230] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 2231] decoded note=F4 dur=960 vel=82 -> bits=010110
+[Step 2232] decoded note=D4 dur=240 vel=81 -> bits=001001
+[Step 2233] decoded note=D4 dur=240 vel=82 -> bits=100001
+[Step 2234] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 2235] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 2236] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 2237] decoded note=E4 dur=960 vel=81 -> bits=101010
+[Step 2238] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 2239] decoded note=A4 dur=960 vel=81 -> bits=010110
+[Keyframe+SYNC READ] step=2240 prev_note を A4 に同期、reported_crc=4F
+  block_bits_len=120 actual_crc=4F
+  CRC OK
+[Step 2240] decoded note=A4 dur=961 vel=84 -> bits=111110
+[Step 2241] decoded note=B4 dur=480 vel=80 -> bits=100100
+[Step 2242] decoded note=C5 dur=960 vel=83 -> bits=111110
+[Step 2243] decoded note=A4 dur=960 vel=81 -> bits=001110
+[Step 2244] decoded note=E4 dur=240 vel=80 -> bits=000001
+[Step 2245] decoded note=F4 dur=240 vel=82 -> bits=101101
+[Step 2246] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Step 2247] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 2248] decoded note=B3 dur=240 vel=80 -> bits=000001
+[Step 2249] decoded note=C4 dur=480 vel=81 -> bits=100100
+[Step 2250] decoded note=G4 dur=960 vel=80 -> bits=111110
+[Step 2251] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 2252] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 2253] decoded note=D4 dur=960 vel=81 -> bits=101010
+[Step 2254] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 2255] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 2256] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2257] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 2258] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 2259] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=2260 prev_note を G3 に同期、reported_crc=D2
+  block_bits_len=120 actual_crc=D2
+  CRC OK
+[Step 2260] decoded note=G3 dur=481 vel=80 -> bits=000000
+[Step 2261] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 2262] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 2263] decoded note=B3 dur=960 vel=80 -> bits=100010
+[Step 2264] decoded note=G3 dur=720 vel=81 -> bits=000111
+[Step 2265] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 2266] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 2267] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 2268] decoded note=C4 dur=720 vel=80 -> bits=011011
+[Step 2269] decoded note=D4 dur=720 vel=82 -> bits=101111
+[Step 2270] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 2271] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 2272] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2273] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 2274] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 2275] decoded note=C4 dur=960 vel=81 -> bits=010010
+[Step 2276] decoded note=F4 dur=480 vel=80 -> bits=111000
+[Step 2277] decoded note=G4 dur=960 vel=82 -> bits=101110
+[Step 2278] decoded note=G4 dur=960 vel=83 -> bits=111110
+[Step 2279] decoded note=G4 dur=960 vel=80 -> bits=011010
+[Keyframe+SYNC READ] step=2280 prev_note を A4 に同期、reported_crc=D7
+  block_bits_len=120 actual_crc=D7
+  CRC OK
+[Step 2280] decoded note=A4 dur=481 vel=81 -> bits=101000
+[Step 2281] decoded note=B4 dur=960 vel=81 -> bits=101010
+[Step 2282] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Step 2283] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 2284] decoded note=D4 dur=960 vel=80 -> bits=000010
+[Step 2285] decoded note=E4 dur=480 vel=80 -> bits=100100
+[Step 2286] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 2287] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Step 2288] decoded note=A4 dur=960 vel=81 -> bits=110110
+[Step 2289] decoded note=B4 dur=720 vel=81 -> bits=101011
+[Step 2290] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Step 2291] decoded note=A4 dur=960 vel=80 -> bits=011010
+[Step 2292] decoded note=G4 dur=480 vel=80 -> bits=001100
+[Step 2293] decoded note=G4 dur=480 vel=82 -> bits=100000
+[Step 2294] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 2295] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 2296] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 2297] decoded note=D4 dur=240 vel=80 -> bits=100101
+[Step 2298] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 2299] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=2300 prev_note を D4 に同期、reported_crc=69
+  block_bits_len=120 actual_crc=69
+  CRC OK
+[Step 2300] decoded note=D4 dur=481 vel=80 -> bits=000000
+[Step 2301] decoded note=D4 dur=480 vel=82 -> bits=100000
+[Step 2302] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 2303] decoded note=C4 dur=960 vel=81 -> bits=010010
+[Step 2304] decoded note=F4 dur=720 vel=80 -> bits=111011
+[Step 2305] decoded note=G4 dur=240 vel=80 -> bits=100101
+[Step 2306] decoded note=A4 dur=960 vel=82 -> bits=101110
+[Step 2307] decoded note=G4 dur=960 vel=82 -> bits=010110
+[Step 2308] decoded note=G4 dur=720 vel=80 -> bits=011011
+[Step 2309] decoded note=A4 dur=720 vel=82 -> bits=101111
+[Step 2310] decoded note=A4 dur=960 vel=81 -> bits=011110
+[Step 2311] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 2312] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 2313] decoded note=E4 dur=960 vel=81 -> bits=101010
+[Step 2314] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 2315] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 2316] decoded note=D4 dur=720 vel=82 -> bits=101111
+[Step 2317] decoded note=E4 dur=720 vel=82 -> bits=101111
+[Step 2318] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 2319] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Keyframe+SYNC READ] step=2320 prev_note を G4 に同期、reported_crc=84
+  block_bits_len=120 actual_crc=84
+  CRC OK
+[Step 2320] decoded note=G4 dur=241 vel=82 -> bits=101101
+[Step 2321] decoded note=G4 dur=960 vel=82 -> bits=100010
+[Step 2322] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 2323] decoded note=A4 dur=960 vel=80 -> bits=100110
+[Step 2324] decoded note=G4 dur=960 vel=82 -> bits=010110
+[Step 2325] decoded note=A4 dur=480 vel=81 -> bits=101000
+[Step 2326] decoded note=B4 dur=960 vel=82 -> bits=101110
+[Step 2327] decoded note=A4 dur=960 vel=80 -> bits=010010
+[Step 2328] decoded note=A4 dur=720 vel=84 -> bits=111111
+[Step 2329] decoded note=A4 dur=480 vel=82 -> bits=100000
+[Step 2330] decoded note=B4 dur=960 vel=82 -> bits=101110
+[Step 2331] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 2332] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 2333] decoded note=E4 dur=960 vel=81 -> bits=101010
+[Step 2334] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 2335] decoded note=A4 dur=960 vel=83 -> bits=011110
+[Step 2336] decoded note=B4 dur=720 vel=81 -> bits=101011
+[Step 2337] decoded note=B4 dur=960 vel=80 -> bits=100010
+[Step 2338] decoded note=C5 dur=960 vel=83 -> bits=111110
+[Step 2339] decoded note=A4 dur=960 vel=81 -> bits=001110
+[Keyframe+SYNC READ] step=2340 prev_note を E4 に同期、reported_crc=3F
+  block_bits_len=120 actual_crc=3F
+  CRC OK
+[Step 2340] decoded note=E4 dur=241 vel=80 -> bits=000001
+[Step 2341] decoded note=F4 dur=720 vel=80 -> bits=100111
+[Step 2342] decoded note=C5 dur=960 vel=80 -> bits=111110
+[Step 2343] decoded note=A4 dur=960 vel=81 -> bits=001110
+[Step 2344] decoded note=E4 dur=240 vel=80 -> bits=000001
+[Step 2345] decoded note=E4 dur=240 vel=82 -> bits=100001
+[Step 2346] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 2347] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 2348] decoded note=B3 dur=240 vel=80 -> bits=000001
+[Step 2349] decoded note=C4 dur=960 vel=82 -> bits=101010
+[Step 2350] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 2351] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 2352] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2353] decoded note=A3 dur=960 vel=84 -> bits=100110
+[Step 2354] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 2355] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 2356] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 2357] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 2358] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 2359] decoded note=D4 dur=960 vel=82 -> bits=010110
+[Keyframe+SYNC READ] step=2360 prev_note を C4 に同期、reported_crc=94
+  block_bits_len=120 actual_crc=94
+  CRC OK
+[Step 2360] decoded note=C4 dur=481 vel=81 -> bits=010000
+[Step 2361] decoded note=C4 dur=240 vel=82 -> bits=100001
+[Step 2362] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 2363] decoded note=B3 dur=960 vel=80 -> bits=010110
+[Step 2364] decoded note=B3 dur=720 vel=81 -> bits=011011
+[Step 2365] decoded note=D4 dur=720 vel=80 -> bits=101111
+[Step 2366] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 2367] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 2368] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2369] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 2370] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 2371] decoded note=D4 dur=960 vel=82 -> bits=100010
+[Step 2372] decoded note=F4 dur=960 vel=80 -> bits=110010
+[Step 2373] decoded note=G4 dur=720 vel=81 -> bits=101011
+[Step 2374] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 2375] decoded note=E4 dur=960 vel=82 -> bits=010110
+[Step 2376] decoded note=C4 dur=720 vel=81 -> bits=001011
+[Step 2377] decoded note=D4 dur=960 vel=80 -> bits=100110
+[Step 2378] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 2379] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=2380 prev_note を G3 に同期、reported_crc=69
+  block_bits_len=120 actual_crc=69
+  CRC OK
+[Step 2380] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 2381] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 2382] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 2383] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 2384] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2385] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 2386] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 2387] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 2388] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 2389] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 2390] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 2391] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 2392] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 2393] decoded note=B3 dur=960 vel=82 -> bits=101010
+[Step 2394] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 2395] decoded note=A3 dur=960 vel=80 -> bits=010010
+[Step 2396] decoded note=E4 dur=720 vel=80 -> bits=111111
+[Step 2397] decoded note=F4 dur=480 vel=81 -> bits=101000
+[Step 2398] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Step 2399] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=2400 prev_note を B3 に同期、reported_crc=F6
+  block_bits_len=120 actual_crc=F6
+  CRC OK
+[Step 2400] decoded note=B3 dur=241 vel=80 -> bits=000001
+[Step 2401] decoded note=C4 dur=960 vel=81 -> bits=100110
+[Step 2402] decoded note=D4 dur=960 vel=82 -> bits=101110
+[Step 2403] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 2404] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 2405] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 2406] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 2407] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 2408] decoded note=A3 dur=480 vel=80 -> bits=000000
+[Step 2409] decoded note=B3 dur=480 vel=80 -> bits=100000
+[Step 2410] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 2411] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Step 2412] decoded note=C4 dur=720 vel=82 -> bits=010111
+[Step 2413] decoded note=D4 dur=240 vel=81 -> bits=101001
+[Step 2414] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 2415] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Step 2416] decoded note=D4 dur=480 vel=81 -> bits=011100
+[Step 2417] decoded note=E4 dur=720 vel=81 -> bits=101011
+[Step 2418] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 2419] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Keyframe+SYNC READ] step=2420 prev_note を C4 に同期、reported_crc=FA
+  block_bits_len=120 actual_crc=FA
+  CRC OK
+[Step 2420] decoded note=C4 dur=721 vel=80 -> bits=011011
+[Step 2421] decoded note=D4 dur=720 vel=82 -> bits=101111
+[Step 2422] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 2423] decoded note=D4 dur=960 vel=80 -> bits=011010
+[Step 2424] decoded note=F4 dur=480 vel=80 -> bits=110000
+[Step 2425] decoded note=G4 dur=480 vel=80 -> bits=100100
+[Step 2426] decoded note=G4 dur=960 vel=81 -> bits=011110
+[Step 2427] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 2428] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 2429] decoded note=D4 dur=720 vel=81 -> bits=101011
+[Step 2430] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 2431] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 2432] decoded note=D4 dur=480 vel=80 -> bits=000000
+[Step 2433] decoded note=D4 dur=480 vel=82 -> bits=100000
+[Step 2434] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 2435] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 2436] decoded note=C4 dur=720 vel=80 -> bits=011011
+[Step 2437] decoded note=D4 dur=720 vel=82 -> bits=101111
+[Step 2438] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 2439] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Keyframe+SYNC READ] step=2440 prev_note を D4 に同期、reported_crc=C3
+  block_bits_len=120 actual_crc=C3
+  CRC OK
+[Step 2440] decoded note=D4 dur=961 vel=82 -> bits=101110
+[Step 2441] decoded note=E4 dur=240 vel=82 -> bits=101101
+[Step 2442] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 2443] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 2444] decoded note=B3 dur=240 vel=80 -> bits=000001
+[Step 2445] decoded note=C4 dur=720 vel=82 -> bits=101011
+[Step 2446] decoded note=D4 dur=960 vel=82 -> bits=101110
+[Step 2447] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 2448] decoded note=B3 dur=480 vel=81 -> bits=010000
+[Step 2449] decoded note=C4 dur=720 vel=80 -> bits=100011
+[Step 2450] decoded note=C4 dur=960 vel=81 -> bits=011110
+[Step 2451] decoded note=C4 dur=960 vel=82 -> bits=100010
+[Step 2452] decoded note=D4 dur=960 vel=81 -> bits=101010
+[Step 2453] decoded note=D4 dur=960 vel=82 -> bits=100010
+[Step 2454] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 2455] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 2456] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2457] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 2458] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 2459] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=2460 prev_note を G3 に同期、reported_crc=66
+  block_bits_len=120 actual_crc=66
+  CRC OK
+[Step 2460] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 2461] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 2462] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 2463] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 2464] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 2465] decoded note=B3 dur=480 vel=81 -> bits=100100
+[Step 2466] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 2467] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 2468] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 2469] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 2470] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 2471] decoded note=A3 dur=960 vel=81 -> bits=010110
+[Step 2472] decoded note=G3 dur=240 vel=81 -> bits=000101
+[Step 2473] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 2474] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 2475] decoded note=A3 dur=960 vel=81 -> bits=010110
+[Step 2476] decoded note=G3 dur=960 vel=82 -> bits=001010
+[Step 2477] decoded note=A3 dur=960 vel=84 -> bits=100110
+[Step 2478] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 2479] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=2480 prev_note を A3 に同期、reported_crc=67
+  block_bits_len=120 actual_crc=67
+  CRC OK
+[Step 2480] decoded note=A3 dur=961 vel=80 -> bits=000010
+[Step 2481] decoded note=B3 dur=480 vel=81 -> bits=100100
+[Step 2482] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 2483] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 2484] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2485] decoded note=A3 dur=480 vel=83 -> bits=100000
+[Step 2486] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 2487] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 2488] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2489] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 2490] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 2491] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 2492] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2493] decoded note=B3 dur=240 vel=80 -> bits=101001
+[Step 2494] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 2495] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 2496] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2497] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 2498] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 2499] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=2500 prev_note を A3 に同期、reported_crc=75
+  block_bits_len=120 actual_crc=75
+  CRC OK
+[Step 2500] decoded note=A3 dur=241 vel=80 -> bits=000001
+[Step 2501] decoded note=B3 dur=720 vel=82 -> bits=101011
+[Step 2502] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 2503] decoded note=C4 dur=960 vel=82 -> bits=010110
+[Step 2504] decoded note=E4 dur=480 vel=81 -> bits=110100
+[Step 2505] decoded note=E4 dur=240 vel=82 -> bits=100001
+[Step 2506] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 2507] decoded note=B4 dur=960 vel=81 -> bits=100110
+[Step 2508] decoded note=B4 dur=720 vel=82 -> bits=101011
+[Step 2509] decoded note=B4 dur=960 vel=81 -> bits=100110
+[Step 2510] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 2511] decoded note=F4 dur=960 vel=80 -> bits=001110
+[Step 2512] decoded note=C4 dur=240 vel=80 -> bits=000001
+[Step 2513] decoded note=D4 dur=960 vel=81 -> bits=101010
+[Step 2514] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 2515] decoded note=E4 dur=960 vel=81 -> bits=011110
+[Step 2516] decoded note=D4 dur=480 vel=81 -> bits=010000
+[Step 2517] decoded note=D4 dur=240 vel=82 -> bits=100001
+[Step 2518] decoded note=E4 dur=960 vel=82 -> bits=101110
+[Step 2519] decoded note=E4 dur=960 vel=80 -> bits=011010
+[Keyframe+SYNC READ] step=2520 prev_note を B3 に同期、reported_crc=FD
+  block_bits_len=120 actual_crc=FD
+  CRC OK
+[Step 2520] decoded note=B3 dur=721 vel=80 -> bits=000011
+[Step 2521] decoded note=D4 dur=480 vel=80 -> bits=101100
+[Step 2522] decoded note=A4 dur=960 vel=80 -> bits=111110
+[Step 2523] decoded note=G4 dur=960 vel=80 -> bits=001110
+[Step 2524] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 2525] decoded note=E4 dur=960 vel=81 -> bits=101010
+[Step 2526] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 2527] decoded note=D4 dur=960 vel=81 -> bits=011110
+[Step 2528] decoded note=D4 dur=720 vel=80 -> bits=011011
+[Step 2529] decoded note=E4 dur=720 vel=81 -> bits=101011
+[Step 2530] decoded note=F4 dur=960 vel=82 -> bits=101110
+[Step 2531] decoded note=F4 dur=960 vel=81 -> bits=011110
+[Step 2532] decoded note=F4 dur=960 vel=80 -> bits=011010
+[Step 2533] decoded note=F4 dur=240 vel=82 -> bits=100001
+[Step 2534] decoded note=E4 dur=960 vel=80 -> bits=001110
+[Step 2535] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 2536] decoded note=A3 dur=960 vel=80 -> bits=000010
+[Step 2537] decoded note=B3 dur=480 vel=81 -> bits=100100
+[Step 2538] decoded note=D4 dur=960 vel=80 -> bits=101110
+[Step 2539] decoded note=E4 dur=960 vel=80 -> bits=100110
+[Keyframe+SYNC READ] step=2540 prev_note を B3 に同期、reported_crc=BB
+  block_bits_len=120 actual_crc=BB
+  CRC OK
+[Step 2540] decoded note=B3 dur=241 vel=80 -> bits=000001
+[Step 2541] decoded note=C4 dur=240 vel=81 -> bits=100101
+[Step 2542] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Step 2543] decoded note=B3 dur=960 vel=81 -> bits=011010
+[Step 2544] decoded note=A3 dur=480 vel=80 -> bits=001000
+[Step 2545] decoded note=B3 dur=480 vel=81 -> bits=100100
+[Step 2546] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 2547] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 2548] decoded note=G3 dur=240 vel=80 -> bits=000001
+[Step 2549] decoded note=A3 dur=960 vel=84 -> bits=100110
+[Step 2550] decoded note=A3 dur=960 vel=83 -> bits=011110
+[Step 2551] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 2552] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 2553] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 2554] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 2555] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 2556] decoded note=A3 dur=240 vel=80 -> bits=000001
+[Step 2557] decoded note=B3 dur=480 vel=81 -> bits=100100
+[Step 2558] decoded note=C4 dur=960 vel=83 -> bits=111110
+[Step 2559] decoded note=B3 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=2560 prev_note を G3 に同期、reported_crc=36
+  block_bits_len=120 actual_crc=36
+  CRC OK
+[Step 2560] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 2561] decoded note=B3 dur=960 vel=80 -> bits=101010
+[Step 2562] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 2563] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 2564] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 2565] decoded note=A3 dur=480 vel=84 -> bits=100100
+[Step 2566] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 2567] decoded note=C4 dur=960 vel=80 -> bits=100010
+[Step 2568] decoded note=D4 dur=960 vel=81 -> bits=101010
+[Step 2569] decoded note=E4 dur=480 vel=80 -> bits=100100
+[Step 2570] decoded note=B4 dur=960 vel=80 -> bits=111110
+[Step 2571] decoded note=G4 dur=960 vel=82 -> bits=001110
+[Step 2572] decoded note=D4 dur=240 vel=80 -> bits=000001
+[Step 2573] decoded note=E4 dur=240 vel=82 -> bits=101101
+[Step 2574] decoded note=E4 dur=960 vel=81 -> bits=011110
+[Step 2575] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Step 2576] decoded note=A3 dur=480 vel=80 -> bits=000000
+[Step 2577] decoded note=B3 dur=480 vel=80 -> bits=100000
+[Step 2578] decoded note=C4 dur=480 vel=80 -> bits=100000
+[DECODE INFO] bit_string_len=15468 rem=4 (last32='01011110001110000000100000100000')
+[INFO] 末尾の不完全なビットを4個検出、4個の'0'でパディングして復号します
+[DECODE INFO] reconstructed_bytes_len=1934 first4=00000789 last4=e3808200
+[DECODE INFO] expected_payload_len=1929 available=1930
+復号テキスト: 日本国民は、正当に選挙された国会における代表者を通じて行動し、われらとわれらの子孫のために、諸国民との協和による成果と、わが国全土にわたつて自由のもたらす恵沢を確保し、政府の行為によつて再び戦争の惨禍が起ることのないやうにすることを決意し、ここに主権が国民に存することを宣言し、この憲法を確定する。そもそも国政は、国民の厳粛な信託によるものであつて、その権威は国民に由来し、その権力は国民の代表者がこれを行使し、その福利は国民がこれを享受する。これは人類普遍の原理であり、この憲法は、かかる原理に基くものである。われらは、これに反する一切の憲法、法令及び詔勅を排除する。日本国民は、恒久の平和を念願し、人間相互の関係を支配する崇高な理想を深く自覚するのであつて、平和を愛する諸国民の公正と信義に信頼して、われらの安全と生存を保持しようと決意した。われらは、平和を維持し、専制と隷従、圧迫と偏狭を地上から永遠に除去しようと努めてゐる国際社会において、名誉ある地位を占めたいと思ふ。われらは、全世界の国民が、ひとしく恐怖と欠乏から免かれ、平和のうちに生存する権利を有することを確認する。われらは、いづれの国家も、自国のことのみに専念して他国を無視してはならないのであつて、政治道徳の法則は、普遍的なものであり、この法則に従ふことは、自国の主権を維持し、他国と対等関係に立たうとする各国の責務であると信ずる。日本国民は、国家の名誉にかけ、全力をあげてこの崇高な理想と目的を達成することを誓ふ。
+
+--- STDERR ---
+

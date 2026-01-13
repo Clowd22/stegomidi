@@ -1,0 +1,112 @@
+MidiFile(type=1, ticks_per_beat=480, tracks=[
+  MidiTrack([
+    Message('note_on', channel=0, note=0, velocity=0, time=240),
+    Message('note_off', channel=0, note=0, velocity=0, time=0),
+    Message('note_on', channel=0, note=0, velocity=0, time=480),
+    Message('note_off', channel=0, note=0, velocity=0, time=0),
+    Message('note_on', channel=0, note=93, velocity=81, time=0),
+    Message('note_off', channel=0, note=93, velocity=0, time=240),
+    Message('note_on', channel=0, note=0, velocity=0, time=240),
+    Message('note_off', channel=0, note=0, velocity=0, time=0),
+    Message('note_on', channel=0, note=0, velocity=0, time=240),
+    Message('note_off', channel=0, note=0, velocity=0, time=0),
+    Message('note_on', channel=0, note=0, velocity=0, time=480),
+    Message('note_off', channel=0, note=0, velocity=0, time=0),
+    Message('note_on', channel=0, note=0, velocity=0, time=480),
+    Message('note_off', channel=0, note=0, velocity=0, time=0),
+    Message('note_on', channel=0, note=0, velocity=0, time=240),
+    Message('note_off', channel=0, note=0, velocity=0, time=0),
+    Message('note_on', channel=0, note=93, velocity=80, time=0),
+    Message('note_off', channel=0, note=93, velocity=0, time=240),
+    Message('note_on', channel=0, note=0, velocity=0, time=240),
+    Message('note_off', channel=0, note=0, velocity=0, time=0),
+    Message('note_on', channel=0, note=0, velocity=0, time=480),
+    Message('note_off', channel=0, note=0, velocity=0, time=0),
+    Message('note_on', channel=0, note=62, velocity=82, time=0),
+    Message('note_off', channel=0, note=62, velocity=0, time=480),
+    MetaMessage('end_of_track', time=0)])
+])
+
+
+--- テストケース7: '短い' ---
+111001111001111110101101111000111000000110
+
+▼ エンコード詳細:
+ビット列: 11  -> 8分休符  (休符)
+ビット列: 10  -> 4分休符  (休符)
+ビット列: 01 1110 01 -> 音階: 93, リズム: 8分音符, ベロシティ: 81
+ビット列: 11  -> 8分休符  (休符)
+ビット列: 11  -> 8分休符  (休符)
+ビット列: 10  -> 4分休符  (休符)
+ビット列: 10  -> 4分休符  (休符)
+ビット列: 11  -> 8分休符  (休符)
+ビット列: 01 1110 00 -> 音階: 93, リズム: 8分音符, ベロシティ: 80
+ビット列: 11  -> 8分休符  (休符)
+ビット列: 10  -> 4分休符  (休符)
+ビット列: 00 0001 10 -> 音階: 62, リズム: 4分音符, ベロシティ: 82
+
+MIDIファイル 'encoded_7.mid' が作成されました。
+
+111001111001111110101101111000111000000110
+
+--- テストケース7 ---
+[休符] duration=240 → 11
+  追加前: 
+  追加後: 11
+[休符] duration=480 → 10
+  追加前: 11
+  追加後: 1110
+[音符] rhythm duration=240 → 01
+  追加前: 1110
+  追加後: 111001
+[音符] pitch note=93 → 1110
+  追加前: 111001
+  追加後: 1110011110
+[音符] velocity change=1 → 01
+  追加前: 1110011110
+  追加後: 111001111001
+[休符] duration=240 → 11
+  追加前: 111001111001
+  追加後: 11100111100111
+[休符] duration=240 → 11
+  追加前: 11100111100111
+  追加後: 1110011110011111
+[休符] duration=480 → 10
+  追加前: 1110011110011111
+  追加後: 111001111001111110
+[休符] duration=480 → 10
+  追加前: 111001111001111110
+  追加後: 11100111100111111010
+[休符] duration=240 → 11
+  追加前: 11100111100111111010
+  追加後: 1110011110011111101011
+[音符] rhythm duration=240 → 01
+  追加前: 1110011110011111101011
+  追加後: 111001111001111110101101
+[音符] pitch note=93 → 1110
+  追加前: 111001111001111110101101
+  追加後: 1110011110011111101011011110
+[音符] velocity change=0 → 00
+  追加前: 1110011110011111101011011110
+  追加後: 111001111001111110101101111000
+[休符] duration=240 → 11
+  追加前: 111001111001111110101101111000
+  追加後: 11100111100111111010110111100011
+[休符] duration=480 → 10
+  追加前: 11100111100111111010110111100011
+  追加後: 1110011110011111101011011110001110
+[音符] rhythm duration=480 → 00
+  追加前: 1110011110011111101011011110001110
+  追加後: 111001111001111110101101111000111000
+[音符] pitch note=62 → 0001
+  追加前: 111001111001111110101101111000111000
+  追加後: 1110011110011111101011011110001110000001
+[音符] velocity change=2 → 10
+  追加前: 1110011110011111101011011110001110000001
+  追加後: 111001111001111110101101111000111000000110
+[パディング] 8の倍数にするため末尾に000000を追加
+  追加前: 111001111001111110101101111000111000000110
+  追加後: 111001111001111110101101111000111000000110000000
+▼ 復元されたビット列:
+111001111001111110101101111000111000000110000000
+

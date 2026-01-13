@@ -1,0 +1,45 @@
+digraph midi_project {
+  rankdir=LR;
+  node [shape=box];
+
+  "app_gui.py";
+  "runner.py";
+  "makemidi_adaptive_timeshift.py";
+  "makemidi.py";
+  "encode_melody.py";
+  "decoder (script)";
+  "midi_shared.py";
+  "simulate_loss.py";
+  "test_keyframe_resilience_*.py";
+  "plot_resilience_results.py";
+  "results/*.csv";
+  "MID_DIR / artifacts / testmid";
+
+  "app_gui.py" -> "runner.py" [label="calls"];
+  "app_gui.py" -> "midi_shared.py" [label="reads consts"];
+  "app_gui.py" -> "MID_DIR / artifacts / testmid" [label="open / browse"];
+
+  "runner.py" -> "makemidi_adaptive_timeshift.py" [label="exec encoder"];
+  "runner.py" -> "decoder (script)" [label="exec decoder"];
+
+  "makemidi_adaptive_timeshift.py" -> "midi_shared.py" [label="imports consts/util"];
+  "makemidi.py" -> "mido" [label="uses lib", style=dashed];
+  "encode_melody.py" -> "mido" [label="uses lib", style=dashed];
+
+  "simulate_loss.py" -> "makemidi_adaptive_timeshift.py" [label="generate .mid"];
+  "simulate_loss.py" -> "decoder (script)" [label="run decode"];
+  "test_keyframe_resilience_*.py" -> "simulate_loss.py" [label="uses / orchestrates"];
+  "test_keyframe_resilience_*.py" -> "results/*.csv" [label="write results"];
+
+  "plot_resilience_results.py" -> "results/*.csv" [label="read csv"];
+  "plot_resilience_results.py" -> "pandas/matplotlib/numpy" [label="uses lib", style=dashed];
+
+  "decoder (script)" -> "midi_shared.py" [label="may read consts"];
+  "makemidi_adaptive_timeshift.py" -> "mido" [label="uses lib", style=dashed];
+
+  subgraph cluster_art {
+    label="artifacts / outputs";
+    "results/*.csv";
+    "MID_DIR / artifacts / testmid";
+  }
+}

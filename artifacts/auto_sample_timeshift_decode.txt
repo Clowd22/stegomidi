@@ -1,0 +1,67 @@
+--- STDOUT ---
+解析するMIDIファイル名を入力してください（拡張子 .mid は不要）: [Step 1] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 2] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 3] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 4] decoded note=G3 dur=480 vel=80 -> bits=000000
+[Step 5] decoded note=G3 dur=480 vel=82 -> bits=001000
+[Step 6] decoded note=D4 dur=960 vel=80 -> bits=111110
+[Step 7] decoded note=C4 dur=960 vel=80 -> bits=001110
+[Step 8] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 9] decoded note=B3 dur=240 vel=81 -> bits=101101
+[Step 10] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 11] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 12] decoded note=G3 dur=720 vel=80 -> bits=000011
+[Step 13] decoded note=B3 dur=480 vel=81 -> bits=101100
+[Step 14] decoded note=A3 dur=960 vel=83 -> bits=111110
+[Step 15] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 16] decoded note=G3 dur=720 vel=80 -> bits=000011
+[Step 17] decoded note=A3 dur=240 vel=84 -> bits=100101
+[Step 18] decoded note=E4 dur=960 vel=80 -> bits=111110
+[Step 19] decoded note=D4 dur=960 vel=80 -> bits=001110
+[Keyframe+SYNC READ] step=20 prev_note を A3 に同期、reported_crc=8F
+  block_bits_len=120 actual_crc=8F
+  CRC OK
+[Step 20] decoded note=A3 dur=721 vel=80 -> bits=000011
+[Step 21] decoded note=B3 dur=960 vel=82 -> bits=101010
+[Step 22] decoded note=A3 dur=960 vel=83 -> bits=111110
+[Step 23] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 24] decoded note=G3 dur=720 vel=80 -> bits=000011
+[Step 25] decoded note=A3 dur=240 vel=83 -> bits=100001
+[Step 26] decoded note=B3 dur=960 vel=83 -> bits=101110
+[Step 27] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 28] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 29] decoded note=B3 dur=720 vel=80 -> bits=101011
+[Step 30] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 31] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 32] decoded note=G3 dur=960 vel=80 -> bits=000010
+[Step 33] decoded note=B3 dur=960 vel=81 -> bits=101110
+[Step 34] decoded note=B3 dur=960 vel=82 -> bits=011110
+[Step 35] decoded note=A3 dur=960 vel=81 -> bits=001110
+[Step 36] decoded note=G3 dur=720 vel=80 -> bits=000011
+[Step 37] decoded note=A3 dur=960 vel=83 -> bits=100010
+[Step 38] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Step 39] decoded note=G3 dur=960 vel=83 -> bits=001110
+[Keyframe+SYNC READ] step=40 prev_note を G3 に同期、reported_crc=1F
+  block_bits_len=120 actual_crc=1F
+  CRC OK
+[Step 40] decoded note=G3 dur=241 vel=80 -> bits=000001
+[Step 41] decoded note=B3 dur=480 vel=80 -> bits=101000
+[Step 42] decoded note=E4 dur=960 vel=80 -> bits=110110
+[Step 43] decoded note=D4 dur=240 vel=81 -> bits=010001
+[Step 44] decoded note=E4 dur=960 vel=81 -> bits=101010
+[Step 45] decoded note=E4 dur=240 vel=80 -> bits=011001
+[Step 46] decoded note=C4 dur=960 vel=80 -> bits=000110
+[Step 47] decoded note=D4 dur=240 vel=81 -> bits=101001
+[Step 48] decoded note=E4 dur=480 vel=80 -> bits=100100
+[Step 49] decoded note=E4 dur=960 vel=80 -> bits=011010
+[Step 50] decoded note=F4 dur=960 vel=80 -> bits=100110
+[Step 51] decoded note=E4 dur=240 vel=81 -> bits=010001
+[Step 52] decoded note=F4 dur=960 vel=81 -> bits=101010
+[DECODE INFO] bit_string_len=312 rem=0 (last32='01100100011010100110010001101010')
+[DECODE INFO] reconstructed_bytes_len=39 first4=00000023 last4=646a646a
+[DECODE INFO] expected_payload_len=35 available=35
+復号テキスト: サンプルテキストっdjdjdjdj
+
+
+--- STDERR ---
+
